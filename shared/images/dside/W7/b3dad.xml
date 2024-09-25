@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="b3dadinbgidle instance 10000" x="0" y="0" width="209" height="260" pivotX="-4.75" pivotY="-4.05" frameX="0" frameY="-8" frameWidth="209" frameHeight="268"/>
+	<SubTexture name="b3dadinbgidle instance 10001" x="0" y="0" width="209" height="260" frameX="0" frameY="-8" frameWidth="209" frameHeight="268"/>
+	<SubTexture name="b3dadinbgidle instance 10002" x="209" y="0" width="207" height="260" frameX="-1" frameY="-8" frameWidth="209" frameHeight="268"/>
+	<SubTexture name="b3dadinbgidle instance 10003" x="209" y="0" width="207" height="260" frameX="-1" frameY="-8" frameWidth="209" frameHeight="268"/>
+	<SubTexture name="b3dadinbgidle instance 10004" x="0" y="260" width="205" height="266" frameX="-2" frameY="-2" frameWidth="209" frameHeight="268"/>
+	<SubTexture name="b3dadinbgidle instance 10005" x="0" y="260" width="205" height="266" frameX="-2" frameY="-2" frameWidth="209" frameHeight="268"/>
+	<SubTexture name="b3dadinbgidle instance 10006" x="205" y="260" width="205" height="267" frameX="-2" frameY="-1" frameWidth="209" frameHeight="268"/>
+	<SubTexture name="b3dadinbgidle instance 10007" x="205" y="260" width="205" height="267" frameX="-2" frameY="-1" frameWidth="209" frameHeight="268"/>
+	<SubTexture name="b3dadinbgidle instance 10008" x="0" y="527" width="205" height="268" frameX="-2" frameY="0" frameWidth="209" frameHeight="268"/>
+	<SubTexture name="b3dadinbgidle instance 10009" x="0" y="527" width="205" height="268" frameX="-2" frameY="0" frameWidth="209" frameHeight="268"/>
+	<SubTexture name="b3dadinbgidle instance 10010" x="0" y="527" width="205" height="268" frameX="-2" frameY="0" frameWidth="209" frameHeight="268"/>
+	<SubTexture name="b3dadinbgidle instance 10011" x="0" y="527" width="205" height="268" frameX="-2" frameY="0" frameWidth="209" frameHeight="268"/>
+	<SubTexture name="b3dadinbgidle instance 10012" x="0" y="527" width="205" height="268" frameX="-2" frameY="0" frameWidth="209" frameHeight="268"/>
+	<SubTexture name="b3dadinbgidle instance 10013" x="0" y="527" width="205" height="268" frameX="-2" frameY="0" frameWidth="209" frameHeight="268"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sniper.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SniperIdle instance 10000" x="0" y="0" width="381" height="310" pivotX="17.3" pivotY="-6.2" frameX="0" frameY="-5" frameWidth="381" frameHeight="315"/>
+	<SubTexture name="SniperIdle instance 10001" x="0" y="0" width="381" height="310" frameX="0" frameY="-5" frameWidth="381" frameHeight="315"/>
+	<SubTexture name="SniperIdle instance 10002" x="381" y="0" width="377" height="312" frameX="-2" frameY="-3" frameWidth="381" frameHeight="315"/>
+	<SubTexture name="SniperIdle instance 10003" x="381" y="0" width="377" height="312" frameX="-2" frameY="-3" frameWidth="381" frameHeight="315"/>
+	<SubTexture name="SniperIdle instance 10004" x="0" y="312" width="373" height="315" frameX="-4" frameY="0" frameWidth="381" frameHeight="315"/>
+	<SubTexture name="SniperIdle instance 10005" x="0" y="312" width="373" height="315" frameX="-4" frameY="0" frameWidth="381" frameHeight="315"/>
+	<SubTexture name="SniperIdle instance 10006" x="373" y="312" width="373" height="315" frameX="-4" frameY="0" frameWidth="381" frameHeight="315"/>
+	<SubTexture name="SniperIdle instance 10007" x="373" y="312" width="373" height="315" frameX="-4" frameY="0" frameWidth="381" frameHeight="315"/>
+	<SubTexture name="SniperIdle instance 10008" x="0" y="627" width="373" height="315" frameX="-4" frameY="0" frameWidth="381" frameHeight="315"/>
+	<SubTexture name="SniperIdle instance 10009" x="0" y="627" width="373" height="315" frameX="-4" frameY="0" frameWidth="381" frameHeight="315"/>
+	<SubTexture name="SniperIdle instance 10010" x="0" y="627" width="373" height="315" frameX="-4" frameY="0" frameWidth="381" frameHeight="315"/>
+	<SubTexture name="SniperIdle instance 10011" x="0" y="627" width="373" height="315" frameX="-4" frameY="0" frameWidth="381" frameHeight="315"/>
+	<SubTexture name="SniperIdle instance 10012" x="0" y="627" width="373" height="315" frameX="-4" frameY="0" frameWidth="381" frameHeight="315"/>
+	<SubTexture name="SniperIdle instance 10013" x="0" y="627" width="373" height="315" frameX="-4" frameY="0" frameWidth="381" frameHeight="315"/>
+</TextureAtlas>

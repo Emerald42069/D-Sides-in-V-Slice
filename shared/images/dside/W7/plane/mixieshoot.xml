@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mixieshoot.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mixieshoot instance 10000" x="0" y="0" width="575" height="521" pivotX="117.35" pivotY="8.9" frameX="-140" frameY="-29" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10001" x="575" y="0" width="700" height="533" frameX="-15" frameY="-8" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10002" x="1275" y="0" width="712" height="533" frameX="-3" frameY="-8" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10003" x="0" y="533" width="706" height="526" frameX="-3" frameY="-18" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10004" x="706" y="533" width="709" height="526" frameX="0" frameY="-18" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10005" x="1415" y="533" width="506" height="524" frameX="-202" frameY="-19" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10006" x="1415" y="533" width="506" height="524" frameX="-202" frameY="-19" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10007" x="1415" y="533" width="506" height="524" frameX="-202" frameY="-19" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10008" x="1415" y="533" width="506" height="524" frameX="-202" frameY="-19" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10009" x="1415" y="533" width="506" height="524" frameX="-202" frameY="-19" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10010" x="1415" y="533" width="506" height="524" frameX="-202" frameY="-19" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10011" x="0" y="1059" width="576" height="521" frameX="-204" frameY="-21" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10012" x="576" y="1059" width="700" height="533" frameX="-205" frameY="0" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10013" x="1276" y="1059" width="712" height="533" frameX="-205" frameY="0" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10014" x="0" y="1592" width="707" height="527" frameX="-210" frameY="-9" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10015" x="707" y="1592" width="710" height="527" frameX="-210" frameY="-9" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10016" x="1417" y="1592" width="506" height="525" frameX="-212" frameY="-10" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10017" x="1417" y="1592" width="506" height="525" frameX="-212" frameY="-10" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10018" x="1417" y="1592" width="506" height="525" frameX="-212" frameY="-10" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10019" x="1417" y="1592" width="506" height="525" frameX="-212" frameY="-10" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10020" x="1417" y="1592" width="506" height="525" frameX="-212" frameY="-10" frameWidth="920" frameHeight="550"/>
+	<SubTexture name="mixieshoot instance 10021" x="1417" y="1592" width="506" height="525" frameX="-212" frameY="-10" frameWidth="920" frameHeight="550"/>
+</TextureAtlas>

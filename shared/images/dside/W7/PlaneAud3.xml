@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PlaneAud3.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PlanemanAud3 instance 10000" x="0" y="0" width="543" height="493" pivotX="47.35" pivotY="0" frameX="-10" frameY="-11" frameWidth="562" frameHeight="504"/>
+	<SubTexture name="PlanemanAud3 instance 10001" x="0" y="0" width="543" height="493" frameX="-10" frameY="-11" frameWidth="562" frameHeight="504"/>
+	<SubTexture name="PlanemanAud3 instance 10002" x="543" y="0" width="562" height="492" frameX="0" frameY="-12" frameWidth="562" frameHeight="504"/>
+	<SubTexture name="PlanemanAud3 instance 10003" x="543" y="0" width="562" height="492" frameX="0" frameY="-12" frameWidth="562" frameHeight="504"/>
+	<SubTexture name="PlanemanAud3 instance 10004" x="1105" y="0" width="536" height="500" frameX="-13" frameY="-3" frameWidth="562" frameHeight="504"/>
+	<SubTexture name="PlanemanAud3 instance 10005" x="1105" y="0" width="536" height="500" frameX="-13" frameY="-3" frameWidth="562" frameHeight="504"/>
+	<SubTexture name="PlanemanAud3 instance 10006" x="0" y="500" width="535" height="502" frameX="-14" frameY="-1" frameWidth="562" frameHeight="504"/>
+	<SubTexture name="PlanemanAud3 instance 10007" x="0" y="500" width="535" height="502" frameX="-14" frameY="-1" frameWidth="562" frameHeight="504"/>
+	<SubTexture name="PlanemanAud3 instance 10008" x="535" y="500" width="535" height="503" frameX="-14" frameY="0" frameWidth="562" frameHeight="504"/>
+	<SubTexture name="PlanemanAud3 instance 10009" x="535" y="500" width="535" height="503" frameX="-14" frameY="0" frameWidth="562" frameHeight="504"/>
+	<SubTexture name="PlanemanAud3 instance 10010" x="535" y="500" width="535" height="503" frameX="-14" frameY="0" frameWidth="562" frameHeight="504"/>
+	<SubTexture name="PlanemanAud3 instance 10011" x="535" y="500" width="535" height="503" frameX="-14" frameY="0" frameWidth="562" frameHeight="504"/>
+	<SubTexture name="PlanemanAud3 instance 10012" x="535" y="500" width="535" height="503" frameX="-14" frameY="0" frameWidth="562" frameHeight="504"/>
+	<SubTexture name="PlanemanAud3 instance 10013" x="535" y="500" width="535" height="503" frameX="-14" frameY="0" frameWidth="562" frameHeight="504"/>
+</TextureAtlas>

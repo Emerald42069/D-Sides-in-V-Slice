@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stevedies.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PlaneFall instance 10000" x="0" y="0" width="359" height="328" pivotX="30.15" pivotY="198.05" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10001" x="359" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10002" x="718" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10003" x="0" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10004" x="359" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10005" x="718" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10006" x="0" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10007" x="359" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10008" x="718" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10009" x="0" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10010" x="359" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10011" x="718" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10012" x="0" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10013" x="359" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10014" x="718" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10015" x="0" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10016" x="359" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10017" x="718" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10018" x="0" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10019" x="359" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10020" x="718" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10021" x="0" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10022" x="359" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10023" x="718" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10024" x="0" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10025" x="359" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10026" x="718" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10027" x="0" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10028" x="359" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10029" x="718" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10030" x="0" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10031" x="359" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10032" x="718" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10033" x="0" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10034" x="359" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10035" x="1077" y="0" width="359" height="328" frameX="-675" frameY="-275" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10036" x="1436" y="0" width="587" height="644" frameX="-564" frameY="-61" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10037" x="0" y="644" width="697" height="714" frameX="-538" frameY="0" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10038" x="0" y="644" width="697" height="714" frameX="-538" frameY="0" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10039" x="697" y="644" width="610" height="576" frameX="-528" frameY="-154" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10040" x="697" y="644" width="610" height="576" frameX="-528" frameY="-154" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10041" x="1307" y="644" width="680" height="493" frameX="-500" frameY="-200" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10042" x="1307" y="644" width="680" height="493" frameX="-500" frameY="-200" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10043" x="0" y="1358" width="605" height="482" frameX="-553" frameY="-198" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10044" x="0" y="1358" width="605" height="482" frameX="-553" frameY="-198" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10045" x="605" y="1358" width="612" height="487" frameX="-522" frameY="-198" frameWidth="735" frameHeight="730"/>
+	<SubTexture name="PlaneFall instance 10046" x="605" y="1358" width="612" height="487" frameX="-552" frameY="-198" frameWidth="735" frameHeight="730"/>
+</TextureAtlas>

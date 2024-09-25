@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BunnyTankGirl.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PlaneBunnyTankGirl instance 10000" x="0" y="0" width="952" height="479" pivotX="0" pivotY="25.05" frameX="0" frameY="-4" frameWidth="954" frameHeight="483"/>
+	<SubTexture name="PlaneBunnyTankGirl instance 10001" x="0" y="0" width="952" height="479" frameX="0" frameY="-4" frameWidth="954" frameHeight="483"/>
+	<SubTexture name="PlaneBunnyTankGirl instance 10002" x="952" y="0" width="954" height="477" frameX="0" frameY="-6" frameWidth="954" frameHeight="483"/>
+	<SubTexture name="PlaneBunnyTankGirl instance 10003" x="952" y="0" width="954" height="477" frameX="0" frameY="-6" frameWidth="954" frameHeight="483"/>
+	<SubTexture name="PlaneBunnyTankGirl instance 10004" x="0" y="479" width="941" height="482" frameX="0" frameY="-1" frameWidth="954" frameHeight="483"/>
+	<SubTexture name="PlaneBunnyTankGirl instance 10005" x="0" y="479" width="941" height="482" frameX="0" frameY="-1" frameWidth="954" frameHeight="483"/>
+	<SubTexture name="PlaneBunnyTankGirl instance 10006" x="941" y="479" width="938" height="483" frameX="0" frameY="0" frameWidth="954" frameHeight="483"/>
+	<SubTexture name="PlaneBunnyTankGirl instance 10007" x="941" y="479" width="938" height="483" frameX="0" frameY="0" frameWidth="954" frameHeight="483"/>
+	<SubTexture name="PlaneBunnyTankGirl instance 10008" x="0" y="962" width="936" height="483" frameX="0" frameY="0" frameWidth="954" frameHeight="483"/>
+	<SubTexture name="PlaneBunnyTankGirl instance 10009" x="0" y="962" width="936" height="483" frameX="0" frameY="0" frameWidth="954" frameHeight="483"/>
+	<SubTexture name="PlaneBunnyTankGirl instance 10010" x="0" y="962" width="936" height="483" frameX="0" frameY="0" frameWidth="954" frameHeight="483"/>
+	<SubTexture name="PlaneBunnyTankGirl instance 10011" x="0" y="962" width="936" height="483" frameX="0" frameY="0" frameWidth="954" frameHeight="483"/>
+	<SubTexture name="PlaneBunnyTankGirl instance 10012" x="0" y="962" width="936" height="483" frameX="0" frameY="0" frameWidth="954" frameHeight="483"/>
+	<SubTexture name="PlaneBunnyTankGirl instance 10013" x="0" y="962" width="936" height="483" frameX="0" frameY="0" frameWidth="954" frameHeight="483"/>
+</TextureAtlas>

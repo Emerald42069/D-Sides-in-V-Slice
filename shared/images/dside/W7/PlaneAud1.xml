@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PlaneAud1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PlaneAud1 instance 10000" x="0" y="0" width="583" height="627" pivotX="27.9" pivotY="68.7" frameX="-6" frameY="-4" frameWidth="589" frameHeight="631"/>
+	<SubTexture name="PlaneAud1 instance 10001" x="0" y="0" width="583" height="627" frameX="-6" frameY="-4" frameWidth="589" frameHeight="631"/>
+	<SubTexture name="PlaneAud1 instance 10002" x="583" y="0" width="582" height="630" frameX="-3" frameY="-1" frameWidth="589" frameHeight="631"/>
+	<SubTexture name="PlaneAud1 instance 10003" x="583" y="0" width="582" height="630" frameX="-3" frameY="-1" frameWidth="589" frameHeight="631"/>
+	<SubTexture name="PlaneAud1 instance 10004" x="1165" y="0" width="586" height="630" frameX="-3" frameY="-1" frameWidth="589" frameHeight="631"/>
+	<SubTexture name="PlaneAud1 instance 10005" x="1165" y="0" width="586" height="630" frameX="-3" frameY="-1" frameWidth="589" frameHeight="631"/>
+	<SubTexture name="PlaneAud1 instance 10006" x="0" y="630" width="587" height="631" frameX="-1" frameY="0" frameWidth="589" frameHeight="631"/>
+	<SubTexture name="PlaneAud1 instance 10007" x="0" y="630" width="587" height="631" frameX="-1" frameY="0" frameWidth="589" frameHeight="631"/>
+	<SubTexture name="PlaneAud1 instance 10008" x="587" y="630" width="588" height="631" frameX="0" frameY="0" frameWidth="589" frameHeight="631"/>
+	<SubTexture name="PlaneAud1 instance 10009" x="587" y="630" width="588" height="631" frameX="0" frameY="0" frameWidth="589" frameHeight="631"/>
+	<SubTexture name="PlaneAud1 instance 10010" x="587" y="630" width="588" height="631" frameX="0" frameY="0" frameWidth="589" frameHeight="631"/>
+	<SubTexture name="PlaneAud1 instance 10011" x="587" y="630" width="588" height="631" frameX="0" frameY="0" frameWidth="589" frameHeight="631"/>
+	<SubTexture name="PlaneAud1 instance 10012" x="587" y="630" width="588" height="631" frameX="0" frameY="0" frameWidth="589" frameHeight="631"/>
+</TextureAtlas>
