@@ -1,0 +1,118 @@
+import funkin.play.PlayState;
+
+import funkin.modding.module.Module;
+import funkin.util.tools.StringTools;
+import funkin.util.Constants;
+
+//import flixel.util.FlxColor;
+
+import flixel.ui.FlxBar;
+import flixel.FlxSprite;
+import flixel.FlxG;
+
+import Math;
+import Std;
+
+class IconColoredHealthBar extends Module {
+    function new(){
+        super("IconColoredHealthBar", 0);
+    }
+
+    // lower to make the script faster, at the cost of accuracy
+    // default value is 150 (aka base game icon size)
+    var iconRes = 150;
+
+    static var defaultHBGreen = Constants.COLOR_HEALTH_BAR_GREEN;
+    static var defaultHBRed = Constants.COLOR_HEALTH_BAR_RED;
+
+    static var bfColor;
+    static var dadColor;
+    function updateHealthBarColors() {
+        bfColor = dominantColor(state.iconP1);
+        dadColor = dominantColor(state.iconP2);
+
+        fillHealthBar();
+    }
+
+    function fillHealthBar() {
+        bfColor = (bfColor != null ? bfColor : defaultHBGreen);
+        dadColor = (dadColor != null ? dadColor : defaultHBRed);
+
+        // so other mods use it as well (mostly added for fancy hud)
+        // Constants.COLOR_HEALTH_BAR_GREEN = bfColor;
+        // Constants.COLOR_HEALTH_BAR_RED = dadColor;
+        // AppleHair note: Don't change a constant if you don't actually need to. It just creates problems.
+
+        if (!inPlay || state == null || state.healthBar == null) return;
+
+        state.healthBar.createFilledBar(dadColor,bfColor);
+    }
+
+    // based off dominantColor from psych engine (in CoolUtils.hx)
+    function dominantColor(sprite:FlxSprite, ?resMult:Float) {
+        if(sprite == null || !inPlay) return;
+
+        // planned to be used for when character change stuff is added
+        resMult = resMult != null ? resMult : 1;
+
+        var mult:Float = Math.min(1,(iconRes / sprite.frameWidth) * resMult);
+
+        var countByColor:Array<Int> = [];
+        var colorById:Array<Int> = [];
+        for(col in 0...(sprite.frameWidth)*mult) {
+            for(row in 0...(sprite.frameHeight)*mult) {
+                var colorOfThisPixel:Int = sprite.pixels.getPixel32(col / mult, row / mult);
+                if(colorOfThisPixel != 0) {
+                    var colorId = colorById.indexOf(colorOfThisPixel);
+                    if(colorId != -1) {
+                        countByColor[colorId] = countByColor[colorId] + 1;
+                    } else {
+                        var id = colorById.length;
+                        colorById[id] = colorOfThisPixel;
+                        countByColor[id] = 1;
+                    }
+                }
+            }
+        }
+
+        var maxCount:Int = 0;
+        var maxKey:Int = 0; //after the loop this will store the max color
+        for(color in colorById) {
+            var id = colorById.indexOf(color);
+            var count = countByColor[id] != null ? countByColor[id] : 0;
+            if(id != -1 && count > maxCount && color != 0xFF000000 && color != 0x00FFFFFF) {
+                maxCount = count;
+                maxKey = color;
+            }
+        }
+        countByColor = [];
+        colorById = [];
+        return maxKey;
+    }
+
+    // i took this from kade hud because im LAZY shut up please :(
+    var state;
+	var inPlay = false;
+	override function onStateChangeBegin(ev:ScriptEvent) {
+		super.onStateChangeBegin(ev);
+		inPlay = false;
+	}
+
+	override function onStateChangeEnd(ev:ScriptEvent) {
+		super.onStateChangeEnd(ev);
+
+		state = PlayState.instance;
+		inPlay = Std.isOfType(FlxG.state, PlayState);
+		if (state != null && inPlay) {
+			onPlayStateEnter();
+			return;
+		}
+	}
+
+    function onPlayStateEnter() {
+        // You should make the colored health bar only work in your variation
+        // or else it will appear like that for every song in the game
+        if (PlayState.instance.currentVariation != "dside") return;
+        updateHealthBarColors();
+    }
+}

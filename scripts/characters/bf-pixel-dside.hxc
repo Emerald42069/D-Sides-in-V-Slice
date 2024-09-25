@@ -1,0 +1,21 @@
+import funkin.play.character.MultiSparrowCharacter;
+import funkin.play.PlayState;
+import funkin.play.GameOverSubState;
+import funkin.play.PauseSubState;
+import funkin.Paths;
+import flixel.FlxSprite;
+import flixel.FlxG;
+
+class BFPixelDsideCharacter extends MultiSparrowCharacter {
+	function new() {
+		super('bf-pixel-dside');
+	}
+
+	function onCreate(event:ScriptEvent) {
+		super.onCreate(event);
+
+		GameOverSubState.musicSuffix = '-pixel-dside';
+
+		PauseSubState.musicSuffix = '-pixel-dside';
+	}
+}

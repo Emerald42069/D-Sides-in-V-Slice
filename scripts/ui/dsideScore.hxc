@@ -1,0 +1,58 @@
+import StringTools;
+
+import flixel.FlxSprite;
+
+import funkin.Paths;
+import funkin.play.PlayState;
+import funkin.modding.module.Module;
+
+class DsidesPopUp extends Module {
+
+  public function new() {
+		super('dsides-pop-up');
+	}
+
+  public override function onSongEnd(event:ScriptEvent):Void {
+    PlayState.instance.comboPopUps.memberAdded.removeAll();
+  }
+
+  public override function onCountdownStart(event:CountdownScriptEvent):Void {
+    if (PlayState.instance.currentVariation != "dside") {return;}
+    PlayState.instance.comboPopUps.memberAdded.add(function(rating:FlxSprite):Void {
+      if ((!StringTools.contains(rating.graphic.key,'weeb/pixelUI/sick-pixel')) &&
+          (!StringTools.contains(rating.graphic.key,'sick'))) {return;}
+      var ratingPath = "dside/sick";
+      if (StringTools.startsWith(PlayState.instance.currentStageId,'dojo')) {
+        ratingPath = "dside/W6/weeb/pixelUI/" + ratingPath + "-pixel";
+      }
+      rating.loadGraphic(Paths.image(ratingPath));
+    });
+    PlayState.instance.comboPopUps.memberAdded.add(function(rating:FlxSprite):Void {
+      if ((!StringTools.contains(rating.graphic.key,'weeb/pixelUI/good-pixel')) &&
+          (!StringTools.contains(rating.graphic.key,'good'))) {return;}
+      var ratingPath = "dside/good";
+      if (StringTools.startsWith(PlayState.instance.currentStageId,'dojo')) {
+        ratingPath = "weeb/pixelUI/" + ratingPath + "-pixel";
+      }
+      rating.loadGraphic(Paths.image(ratingPath));
+    });
+    PlayState.instance.comboPopUps.memberAdded.add(function(rating:FlxSprite):Void {
+      if ((!StringTools.contains(rating.graphic.key,'weeb/pixelUI/bad-pixel')) &&
+          (!StringTools.contains(rating.graphic.key,'bad'))) {return;}
+      var ratingPath = "dside/bad";
+      if (StringTools.startsWith(PlayState.instance.currentStageId,'dojo')) {
+        ratingPath = "weeb/pixelUI/" + ratingPath + "-pixel";
+      }
+      rating.loadGraphic(Paths.image(ratingPath));
+    });
+    PlayState.instance.comboPopUps.memberAdded.add(function(rating:FlxSprite):Void {
+      if ((!StringTools.contains(rating.graphic.key,'weeb/pixelUI/shit-pixel')) &&
+          (!StringTools.contains(rating.graphic.key,'shit'))) {return;}
+      var ratingPath = "dside/shit";
+      if (StringTools.startsWith(PlayState.instance.currentStageId,'school')) {
+        ratingPath = "weeb/pixelUI/" + ratingPath + "-pixel";
+      }
+      rating.loadGraphic(Paths.image(ratingPath));
+    });
+  }
+}
