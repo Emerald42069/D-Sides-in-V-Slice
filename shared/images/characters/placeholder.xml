@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="placeholder.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down pose0000" x="5" y="5" width="660" height="583" frameX="-13" frameY="-3" frameWidth="673" frameHeight="586"/>
+	<SubTexture name="Down pose0001" x="665" y="5" width="660" height="583" frameX="-13" frameY="-3" frameWidth="673" frameHeight="586"/>
+	<SubTexture name="Down pose0002" x="1325" y="5" width="673" height="585" frameX="0" frameY="0" frameWidth="673" frameHeight="586"/>
+	<SubTexture name="Down pose0003" x="1998" y="5" width="673" height="585" frameX="0" frameY="0" frameWidth="673" frameHeight="586"/>
+	<SubTexture name="Down pose0004" x="2671" y="5" width="673" height="585" frameX="0" frameY="0" frameWidth="673" frameHeight="586"/>
+	<SubTexture name="Down pose0005" x="3344" y="5" width="673" height="585" frameX="0" frameY="0" frameWidth="673" frameHeight="586"/>
+	<SubTexture name="Down pose0006" x="4017" y="5" width="673" height="585" frameX="0" frameY="0" frameWidth="673" frameHeight="586"/>
+	<SubTexture name="Down pose0007" x="4690" y="5" width="673" height="585" frameX="0" frameY="0" frameWidth="673" frameHeight="586"/>
+	<SubTexture name="Down pose0008" x="1325" y="5" width="673" height="585" frameX="0" frameY="0" frameWidth="673" frameHeight="586"/>
+	<SubTexture name="Idle0000" x="5363" y="5" width="683" height="580" frameX="-10" frameY="-3" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="Idle0001" x="5363" y="5" width="683" height="580" frameX="-10" frameY="-3" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="Idle0002" x="6046" y="5" width="688" height="583" frameX="-5" frameY="0" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="Idle0003" x="6734" y="5" width="688" height="582" frameX="-5" frameY="-1" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="Idle0004" x="7422" y="5" width="688" height="584" frameX="-5" frameY="0" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="Idle0005" x="7422" y="5" width="688" height="584" frameX="-5" frameY="0" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="Idle0006" x="5" y="590" width="689" height="585" frameX="-4" frameY="0" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="Idle0007" x="694" y="590" width="689" height="585" frameX="-4" frameY="0" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="Idle0008" x="1383" y="590" width="693" height="585"/>
+	<SubTexture name="Idle0009" x="2076" y="590" width="693" height="585"/>
+	<SubTexture name="Idle0010" x="1383" y="590" width="693" height="585"/>
+	<SubTexture name="Idle0011" x="2769" y="590" width="693" height="585"/>
+	<SubTexture name="Idle0012" x="2769" y="590" width="693" height="585"/>
+	<SubTexture name="Idle0013" x="1383" y="590" width="693" height="585"/>
+	<SubTexture name="Idle0014" x="1383" y="590" width="693" height="585"/>
+	<SubTexture name="Idle0015" x="1383" y="590" width="693" height="585"/>
+	<SubTexture name="Idle0016" x="1383" y="590" width="693" height="585"/>
+	<SubTexture name="Idle0017" x="1383" y="590" width="693" height="585"/>
+	<SubTexture name="Idle0018" x="1383" y="590" width="693" height="585"/>
+	<SubTexture name="Idle0019" x="1383" y="590" width="693" height="585"/>
+	<SubTexture name="big reveal lol0000" x="3462" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0001" x="3462" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0002" x="3462" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0003" x="3462" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0004" x="3462" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0005" x="3883" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0006" x="4304" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0007" x="4725" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0008" x="5146" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0009" x="5567" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0010" x="5988" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0011" x="6409" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0012" x="6830" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0013" x="6830" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0014" x="7251" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0015" x="7672" y="590" width="421" height="586" frameX="-28" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0016" x="5" y="1176" width="432" height="586" frameX="-17" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0017" x="437" y="1176" width="432" height="586" frameX="-17" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0018" x="869" y="1176" width="455" height="611" frameX="0" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0019" x="1324" y="1176" width="469" height="611" frameX="0" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0020" x="1793" y="1176" width="484" height="611" frameX="0" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0021" x="2277" y="1176" width="517" height="611" frameX="0" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0022" x="2794" y="1176" width="562" height="611" frameX="0" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0023" x="3356" y="1176" width="620" height="611" frameX="0" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0024" x="3976" y="1176" width="652" height="611" frameX="0" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0025" x="4628" y="1176" width="693" height="611"/>
+	<SubTexture name="big reveal lol0026" x="5321" y="1176" width="693" height="611"/>
+	<SubTexture name="big reveal lol0027" x="6014" y="1176" width="693" height="611"/>
+	<SubTexture name="big reveal lol0028" x="6707" y="1176" width="693" height="611"/>
+	<SubTexture name="big reveal lol0029" x="7400" y="1176" width="693" height="611"/>
+	<SubTexture name="big reveal lol0030" x="5" y="1787" width="693" height="611"/>
+	<SubTexture name="big reveal lol0031" x="698" y="1787" width="693" height="611"/>
+	<SubTexture name="big reveal lol0032" x="1391" y="1787" width="693" height="611"/>
+	<SubTexture name="big reveal lol0033" x="2084" y="1787" width="693" height="611"/>
+	<SubTexture name="big reveal lol0034" x="2777" y="1787" width="693" height="611"/>
+	<SubTexture name="big reveal lol0035" x="3470" y="1787" width="693" height="611"/>
+	<SubTexture name="big reveal lol0036" x="4163" y="1787" width="693" height="611"/>
+	<SubTexture name="big reveal lol0037" x="4856" y="1787" width="693" height="611"/>
+	<SubTexture name="big reveal lol0038" x="5549" y="1787" width="693" height="611"/>
+	<SubTexture name="big reveal lol0039" x="6242" y="1787" width="693" height="611"/>
+	<SubTexture name="big reveal lol0040" x="5549" y="1787" width="693" height="611"/>
+	<SubTexture name="big reveal lol0041" x="6935" y="1787" width="693" height="611"/>
+	<SubTexture name="big reveal lol0042" x="5549" y="1787" width="693" height="611"/>
+	<SubTexture name="big reveal lol0043" x="5" y="2398" width="693" height="586" frameX="0" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0044" x="5549" y="1787" width="693" height="611"/>
+	<SubTexture name="big reveal lol0045" x="698" y="2398" width="693" height="586" frameX="0" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="big reveal lol0046" x="1391" y="2398" width="693" height="586" frameX="0" frameY="0" frameWidth="693" frameHeight="611"/>
+	<SubTexture name="left pose0000" x="2084" y="2398" width="684" height="585"/>
+	<SubTexture name="left pose0001" x="2768" y="2398" width="684" height="585"/>
+	<SubTexture name="left pose0002" x="3452" y="2398" width="684" height="585"/>
+	<SubTexture name="left pose0003" x="3452" y="2398" width="684" height="585"/>
+	<SubTexture name="left pose0004" x="3452" y="2398" width="684" height="585"/>
+	<SubTexture name="left pose0005" x="3452" y="2398" width="684" height="585"/>
+	<SubTexture name="left pose0006" x="3452" y="2398" width="684" height="585"/>
+	<SubTexture name="left pose0007" x="3452" y="2398" width="684" height="585"/>
+	<SubTexture name="left pose0008" x="3452" y="2398" width="684" height="585"/>
+	<SubTexture name="malfunction pose0000" x="4136" y="2398" width="693" height="585"/>
+	<SubTexture name="malfunction pose0001" x="4829" y="2398" width="687" height="582" frameX="-6" frameY="0" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="malfunction pose0002" x="5516" y="2398" width="679" height="585" frameX="-14" frameY="0" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="malfunction pose0003" x="6195" y="2398" width="683" height="585" frameX="-10" frameY="0" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="malfunction pose0004" x="6878" y="2398" width="688" height="582" frameX="-5" frameY="0" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="malfunction pose0005" x="5" y="2984" width="689" height="585" frameX="-4" frameY="0" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="malfunction pose0006" x="694" y="2984" width="688" height="585" frameX="-5" frameY="0" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="malfunction pose0007" x="1382" y="2984" width="689" height="582" frameX="-4" frameY="0" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="malfunction pose0008" x="2071" y="2984" width="685" height="585" frameX="-8" frameY="0" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="malfunction pose0009" x="2756" y="2984" width="692" height="585" frameX="-1" frameY="0" frameWidth="693" frameHeight="585"/>
+	<SubTexture name="right pose0000" x="3448" y="2984" width="691" height="584" frameX="-1" frameY="-1" frameWidth="692" frameHeight="585"/>
+	<SubTexture name="right pose0001" x="4139" y="2984" width="691" height="583" frameX="-1" frameY="-1" frameWidth="692" frameHeight="585"/>
+	<SubTexture name="right pose0002" x="4830" y="2984" width="692" height="585"/>
+	<SubTexture name="right pose0003" x="5522" y="2984" width="692" height="585"/>
+	<SubTexture name="right pose0004" x="6214" y="2984" width="692" height="585"/>
+	<SubTexture name="right pose0005" x="6906" y="2984" width="692" height="585"/>
+	<SubTexture name="right pose0006" x="5" y="3569" width="692" height="585"/>
+	<SubTexture name="right pose0007" x="697" y="3569" width="692" height="585"/>
+	<SubTexture name="right pose0008" x="4830" y="2984" width="692" height="585"/>
+	<SubTexture name="silhouette static0000" x="1389" y="3569" width="421" height="586"/>
+	<SubTexture name="up pose0000" x="1810" y="3569" width="678" height="589"/>
+	<SubTexture name="up pose0001" x="2488" y="3569" width="678" height="589"/>
+	<SubTexture name="up pose0002" x="3166" y="3569" width="671" height="585" frameX="-7" frameY="-4" frameWidth="678" frameHeight="589"/>
+	<SubTexture name="up pose0003" x="3837" y="3569" width="671" height="585" frameX="-7" frameY="-4" frameWidth="678" frameHeight="589"/>
+	<SubTexture name="up pose0004" x="4508" y="3569" width="671" height="585" frameX="-7" frameY="-4" frameWidth="678" frameHeight="589"/>
+	<SubTexture name="up pose0005" x="5179" y="3569" width="671" height="585" frameX="-7" frameY="-4" frameWidth="678" frameHeight="589"/>
+	<SubTexture name="up pose0006" x="5850" y="3569" width="671" height="585" frameX="-7" frameY="-4" frameWidth="678" frameHeight="589"/>
+	<SubTexture name="up pose0007" x="6521" y="3569" width="671" height="585" frameX="-7" frameY="-4" frameWidth="678" frameHeight="589"/>
+	<SubTexture name="up pose0008" x="3166" y="3569" width="671" height="585" frameX="-7" frameY="-4" frameWidth="678" frameHeight="589"/>
+</TextureAtlas>

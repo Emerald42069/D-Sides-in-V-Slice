@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="planeman_wind_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="planeman down wind0000" x="5" y="5" width="707" height="537" frameX="0" frameY="-14" frameWidth="720" frameHeight="551"/>
+	<SubTexture name="planeman down wind0001" x="717" y="5" width="720" height="537" frameX="0" frameY="-14" frameWidth="720" frameHeight="551"/>
+	<SubTexture name="planeman down wind0002" x="1442" y="5" width="706" height="549" frameX="-1" frameY="0" frameWidth="720" frameHeight="551"/>
+	<SubTexture name="planeman down wind0003" x="2153" y="5" width="719" height="549" frameX="-1" frameY="0" frameWidth="720" frameHeight="551"/>
+	<SubTexture name="planeman down wind0004" x="1442" y="5" width="706" height="549" frameX="-1" frameY="0" frameWidth="720" frameHeight="551"/>
+	<SubTexture name="planeman down wind0005" x="2153" y="5" width="719" height="549" frameX="-1" frameY="0" frameWidth="720" frameHeight="551"/>
+	<SubTexture name="planeman down wind0006" x="1442" y="5" width="706" height="549" frameX="-1" frameY="0" frameWidth="720" frameHeight="551"/>
+	<SubTexture name="planeman down wind0007" x="2153" y="5" width="719" height="549" frameX="-1" frameY="0" frameWidth="720" frameHeight="551"/>
+	<SubTexture name="planeman down wind0008" x="1442" y="5" width="706" height="549" frameX="-1" frameY="0" frameWidth="720" frameHeight="551"/>
+	<SubTexture name="planeman down wind0009" x="2153" y="5" width="719" height="549" frameX="-1" frameY="0" frameWidth="720" frameHeight="551"/>
+	<SubTexture name="planeman down wind0010" x="1442" y="5" width="706" height="549" frameX="-1" frameY="0" frameWidth="720" frameHeight="551"/>
+	<SubTexture name="planeman down wind0011" x="2153" y="5" width="719" height="549" frameX="-1" frameY="0" frameWidth="720" frameHeight="551"/>
+	<SubTexture name="planeman down wind0012" x="1442" y="5" width="706" height="549" frameX="-1" frameY="0" frameWidth="720" frameHeight="551"/>
+	<SubTexture name="planeman down wind0013" x="2153" y="5" width="719" height="549" frameX="-1" frameY="0" frameWidth="720" frameHeight="551"/>
+	<SubTexture name="planeman idle wind0000" x="2877" y="5" width="607" height="574" frameX="-1" frameY="-17" frameWidth="620" frameHeight="591"/>
+	<SubTexture name="planeman idle wind0001" x="3489" y="5" width="619" height="574" frameX="-1" frameY="-17" frameWidth="620" frameHeight="591"/>
+	<SubTexture name="planeman idle wind0002" x="4113" y="5" width="608" height="576" frameX="0" frameY="-15" frameWidth="620" frameHeight="591"/>
+	<SubTexture name="planeman idle wind0003" x="4726" y="5" width="619" height="576" frameX="0" frameY="-15" frameWidth="620" frameHeight="591"/>
+	<SubTexture name="planeman idle wind0004" x="5350" y="5" width="607" height="582" frameX="-1" frameY="-9" frameWidth="620" frameHeight="591"/>
+	<SubTexture name="planeman idle wind0005" x="5962" y="5" width="618" height="582" frameX="-1" frameY="-9" frameWidth="620" frameHeight="591"/>
+	<SubTexture name="planeman idle wind0006" x="6585" y="5" width="607" height="589" frameX="-1" frameY="-2" frameWidth="620" frameHeight="591"/>
+	<SubTexture name="planeman idle wind0007" x="7197" y="5" width="618" height="589" frameX="-1" frameY="-2" frameWidth="620" frameHeight="591"/>
+	<SubTexture name="planeman idle wind0008" x="5" y="599" width="607" height="591" frameX="-1" frameY="0" frameWidth="620" frameHeight="591"/>
+	<SubTexture name="planeman idle wind0009" x="617" y="599" width="618" height="591" frameX="-1" frameY="0" frameWidth="620" frameHeight="591"/>
+	<SubTexture name="planeman idle wind0010" x="5" y="599" width="607" height="591" frameX="-1" frameY="0" frameWidth="620" frameHeight="591"/>
+	<SubTexture name="planeman idle wind0011" x="617" y="599" width="618" height="591" frameX="-1" frameY="0" frameWidth="620" frameHeight="591"/>
+	<SubTexture name="planeman idle wind0012" x="5" y="599" width="607" height="591" frameX="-1" frameY="0" frameWidth="620" frameHeight="591"/>
+	<SubTexture name="planeman idle wind0013" x="617" y="599" width="618" height="591" frameX="-1" frameY="0" frameWidth="620" frameHeight="591"/>
+	<SubTexture name="planeman left wind0000" x="1240" y="599" width="763" height="592" frameX="0" frameY="-6" frameWidth="785" frameHeight="598"/>
+	<SubTexture name="planeman left wind0001" x="2008" y="599" width="776" height="592" frameX="0" frameY="-6" frameWidth="785" frameHeight="598"/>
+	<SubTexture name="planeman left wind0002" x="2789" y="599" width="761" height="598" frameX="-13" frameY="0" frameWidth="785" frameHeight="598"/>
+	<SubTexture name="planeman left wind0003" x="3555" y="599" width="772" height="598" frameX="-13" frameY="0" frameWidth="785" frameHeight="598"/>
+	<SubTexture name="planeman left wind0004" x="2789" y="599" width="761" height="598" frameX="-13" frameY="0" frameWidth="785" frameHeight="598"/>
+	<SubTexture name="planeman left wind0005" x="3555" y="599" width="772" height="598" frameX="-13" frameY="0" frameWidth="785" frameHeight="598"/>
+	<SubTexture name="planeman left wind0006" x="2789" y="599" width="761" height="598" frameX="-13" frameY="0" frameWidth="785" frameHeight="598"/>
+	<SubTexture name="planeman left wind0007" x="3555" y="599" width="772" height="598" frameX="-13" frameY="0" frameWidth="785" frameHeight="598"/>
+	<SubTexture name="planeman left wind0008" x="2789" y="599" width="761" height="598" frameX="-13" frameY="0" frameWidth="785" frameHeight="598"/>
+	<SubTexture name="planeman left wind0009" x="3555" y="599" width="772" height="598" frameX="-13" frameY="0" frameWidth="785" frameHeight="598"/>
+	<SubTexture name="planeman left wind0010" x="2789" y="599" width="761" height="598" frameX="-13" frameY="0" frameWidth="785" frameHeight="598"/>
+	<SubTexture name="planeman left wind0011" x="3555" y="599" width="772" height="598" frameX="-13" frameY="0" frameWidth="785" frameHeight="598"/>
+	<SubTexture name="planeman left wind0012" x="2789" y="599" width="761" height="598" frameX="-13" frameY="0" frameWidth="785" frameHeight="598"/>
+	<SubTexture name="planeman left wind0013" x="3555" y="599" width="772" height="598" frameX="-13" frameY="0" frameWidth="785" frameHeight="598"/>
+	<SubTexture name="planeman pubes0000" x="4332" y="599" width="622" height="603" frameX="-7" frameY="0" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0001" x="4959" y="599" width="624" height="589" frameX="-3" frameY="-14" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0002" x="5588" y="599" width="635" height="589" frameX="-3" frameY="-14" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0003" x="6228" y="599" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0004" x="6847" y="599" width="625" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0005" x="7477" y="599" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0006" x="5" y="1207" width="625" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0007" x="635" y="1207" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0008" x="5" y="1207" width="625" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0009" x="635" y="1207" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0010" x="5" y="1207" width="625" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0011" x="635" y="1207" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0012" x="5" y="1207" width="625" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0013" x="635" y="1207" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0014" x="5" y="1207" width="625" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0015" x="635" y="1207" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0016" x="5" y="1207" width="625" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0017" x="635" y="1207" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0018" x="5" y="1207" width="625" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0019" x="635" y="1207" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0020" x="5" y="1207" width="625" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0021" x="635" y="1207" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0022" x="5" y="1207" width="625" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0023" x="635" y="1207" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0024" x="5" y="1207" width="625" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0025" x="635" y="1207" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0026" x="1254" y="1207" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0027" x="1873" y="1207" width="625" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0028" x="2503" y="1207" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0029" x="3122" y="1207" width="625" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0030" x="3752" y="1207" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0031" x="4371" y="1207" width="625" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0032" x="5001" y="1207" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0033" x="4371" y="1207" width="625" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0034" x="5001" y="1207" width="614" height="588" frameX="-2" frameY="-15" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0035" x="5620" y="1207" width="627" height="581" frameX="0" frameY="-23" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0036" x="6252" y="1207" width="616" height="581" frameX="0" frameY="-23" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0037" x="6873" y="1207" width="625" height="585" frameX="-2" frameY="-18" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0038" x="7503" y="1207" width="614" height="586" frameX="-2" frameY="-17" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0039" x="5" y="1800" width="625" height="586" frameX="-2" frameY="-17" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman pubes0040" x="635" y="1800" width="614" height="586" frameX="-2" frameY="-17" frameWidth="638" frameHeight="604"/>
+	<SubTexture name="planeman right wind0000" x="1254" y="1800" width="784" height="576" frameX="-3" frameY="-4" frameWidth="800" frameHeight="580"/>
+	<SubTexture name="planeman right wind0001" x="2043" y="1800" width="797" height="576" frameX="-3" frameY="-4" frameWidth="800" frameHeight="580"/>
+	<SubTexture name="planeman right wind0002" x="2845" y="1800" width="774" height="580" frameX="0" frameY="0" frameWidth="800" frameHeight="580"/>
+	<SubTexture name="planeman right wind0003" x="3624" y="1800" width="788" height="580" frameX="0" frameY="0" frameWidth="800" frameHeight="580"/>
+	<SubTexture name="planeman right wind0004" x="2845" y="1800" width="774" height="580" frameX="0" frameY="0" frameWidth="800" frameHeight="580"/>
+	<SubTexture name="planeman right wind0005" x="3624" y="1800" width="788" height="580" frameX="0" frameY="0" frameWidth="800" frameHeight="580"/>
+	<SubTexture name="planeman right wind0006" x="2845" y="1800" width="774" height="580" frameX="0" frameY="0" frameWidth="800" frameHeight="580"/>
+	<SubTexture name="planeman right wind0007" x="3624" y="1800" width="788" height="580" frameX="0" frameY="0" frameWidth="800" frameHeight="580"/>
+	<SubTexture name="planeman right wind0008" x="2845" y="1800" width="774" height="580" frameX="0" frameY="0" frameWidth="800" frameHeight="580"/>
+	<SubTexture name="planeman right wind0009" x="3624" y="1800" width="788" height="580" frameX="0" frameY="0" frameWidth="800" frameHeight="580"/>
+	<SubTexture name="planeman right wind0010" x="2845" y="1800" width="774" height="580" frameX="0" frameY="0" frameWidth="800" frameHeight="580"/>
+	<SubTexture name="planeman right wind0011" x="3624" y="1800" width="788" height="580" frameX="0" frameY="0" frameWidth="800" frameHeight="580"/>
+	<SubTexture name="planeman right wind0012" x="2845" y="1800" width="774" height="580" frameX="0" frameY="0" frameWidth="800" frameHeight="580"/>
+	<SubTexture name="planeman right wind0013" x="3624" y="1800" width="788" height="580" frameX="0" frameY="0" frameWidth="800" frameHeight="580"/>
+	<SubTexture name="planeman ugh0000" x="4417" y="1800" width="609" height="588" frameX="-2" frameY="-4" frameWidth="622" frameHeight="592"/>
+	<SubTexture name="planeman ugh0001" x="5031" y="1800" width="619" height="588" frameX="-3" frameY="-4" frameWidth="622" frameHeight="592"/>
+	<SubTexture name="planeman ugh0002" x="5655" y="1800" width="610" height="591" frameX="-1" frameY="-1" frameWidth="622" frameHeight="592"/>
+	<SubTexture name="planeman ugh0003" x="6270" y="1800" width="621" height="591" frameX="-1" frameY="-1" frameWidth="622" frameHeight="592"/>
+	<SubTexture name="planeman ugh0004" x="6896" y="1800" width="611" height="592" frameX="0" frameY="0" frameWidth="622" frameHeight="592"/>
+	<SubTexture name="planeman ugh0005" x="7512" y="1800" width="622" height="592"/>
+	<SubTexture name="planeman ugh0006" x="5" y="2397" width="611" height="592" frameX="0" frameY="0" frameWidth="622" frameHeight="592"/>
+	<SubTexture name="planeman ugh0007" x="621" y="2397" width="622" height="592"/>
+	<SubTexture name="planeman ugh0008" x="5" y="2397" width="611" height="592" frameX="0" frameY="0" frameWidth="622" frameHeight="592"/>
+	<SubTexture name="planeman ugh0009" x="621" y="2397" width="622" height="592"/>
+	<SubTexture name="planeman ugh0010" x="5" y="2397" width="611" height="592" frameX="0" frameY="0" frameWidth="622" frameHeight="592"/>
+	<SubTexture name="planeman ugh0011" x="621" y="2397" width="622" height="592"/>
+	<SubTexture name="planeman ugh0012" x="5" y="2397" width="611" height="592" frameX="0" frameY="0" frameWidth="622" frameHeight="592"/>
+	<SubTexture name="planeman ugh0013" x="621" y="2397" width="622" height="592"/>
+	<SubTexture name="planeman up wind0000" x="1248" y="2397" width="694" height="751" frameX="-13" frameY="0" frameWidth="715" frameHeight="751"/>
+	<SubTexture name="planeman up wind0001" x="1947" y="2397" width="701" height="751" frameX="-13" frameY="0" frameWidth="715" frameHeight="751"/>
+	<SubTexture name="planeman up wind0002" x="2653" y="2397" width="708" height="744" frameX="0" frameY="-7" frameWidth="715" frameHeight="751"/>
+	<SubTexture name="planeman up wind0003" x="3366" y="2397" width="715" height="744" frameX="0" frameY="-7" frameWidth="715" frameHeight="751"/>
+	<SubTexture name="planeman up wind0004" x="2653" y="2397" width="708" height="744" frameX="0" frameY="-7" frameWidth="715" frameHeight="751"/>
+	<SubTexture name="planeman up wind0005" x="3366" y="2397" width="715" height="744" frameX="0" frameY="-7" frameWidth="715" frameHeight="751"/>
+	<SubTexture name="planeman up wind0006" x="2653" y="2397" width="708" height="744" frameX="0" frameY="-7" frameWidth="715" frameHeight="751"/>
+	<SubTexture name="planeman up wind0007" x="3366" y="2397" width="715" height="744" frameX="0" frameY="-7" frameWidth="715" frameHeight="751"/>
+	<SubTexture name="planeman up wind0008" x="2653" y="2397" width="708" height="744" frameX="0" frameY="-7" frameWidth="715" frameHeight="751"/>
+	<SubTexture name="planeman up wind0009" x="3366" y="2397" width="715" height="744" frameX="0" frameY="-7" frameWidth="715" frameHeight="751"/>
+	<SubTexture name="planeman up wind0010" x="2653" y="2397" width="708" height="744" frameX="0" frameY="-7" frameWidth="715" frameHeight="751"/>
+	<SubTexture name="planeman up wind0011" x="3366" y="2397" width="715" height="744" frameX="0" frameY="-7" frameWidth="715" frameHeight="751"/>
+	<SubTexture name="planeman up wind0012" x="2653" y="2397" width="708" height="744" frameX="0" frameY="-7" frameWidth="715" frameHeight="751"/>
+	<SubTexture name="planeman up wind0013" x="3366" y="2397" width="715" height="744" frameX="0" frameY="-7" frameWidth="715" frameHeight="751"/>
+	<SubTexture name="planeman yeah0000" x="4086" y="2397" width="607" height="591" frameX="0" frameY="-153" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0001" x="4698" y="2397" width="603" height="597" frameX="-2" frameY="-147" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0002" x="5306" y="2397" width="621" height="724" frameX="-45" frameY="-4" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0003" x="5932" y="2397" width="632" height="724" frameX="-45" frameY="-4" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0004" x="6569" y="2397" width="617" height="728" frameX="-49" frameY="0" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0005" x="7191" y="2397" width="628" height="728" frameX="-49" frameY="0" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0006" x="5" y="3153" width="617" height="728" frameX="-49" frameY="0" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0007" x="627" y="3153" width="628" height="728" frameX="-49" frameY="0" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0008" x="5" y="3153" width="617" height="728" frameX="-49" frameY="0" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0009" x="627" y="3153" width="628" height="728" frameX="-49" frameY="0" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0010" x="5" y="3153" width="617" height="728" frameX="-49" frameY="0" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0011" x="627" y="3153" width="628" height="728" frameX="-49" frameY="0" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0012" x="5" y="3153" width="617" height="728" frameX="-49" frameY="0" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0013" x="627" y="3153" width="628" height="728" frameX="-49" frameY="0" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0014" x="5" y="3153" width="617" height="728" frameX="-49" frameY="0" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0015" x="627" y="3153" width="628" height="728" frameX="-49" frameY="0" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0016" x="5" y="3153" width="617" height="728" frameX="-49" frameY="0" frameWidth="677" frameHeight="744"/>
+	<SubTexture name="planeman yeah0017" x="627" y="3153" width="628" height="728" frameX="-49" frameY="0" frameWidth="677" frameHeight="744"/>
+</TextureAtlas>
