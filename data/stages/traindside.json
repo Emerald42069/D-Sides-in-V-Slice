@@ -1,0 +1,163 @@
+{
+  "props": [
+    {
+      "danceEvery": 0,
+      "zIndex": 10,
+      "position": [-100, 0],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "sky",
+      "isPixel": false,
+      "assetPath": "dside/W3/sky",
+      "scroll": [0.1, 0.1],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 20,
+      "position": [-10, 0],
+      "scale": [0.85, 0.85],
+      "animType": "sparrow",
+      "name": "city",
+      "isPixel": false,
+      "assetPath": "dside/W3/city",
+      "scroll": [0.3, 0.3],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 30,
+      "position": [-10, 0],
+      "scale": [0.85, 0.85],
+      "animType": "sparrow",
+      "name": "lights0",
+      "isPixel": false,
+      "assetPath": "dside/W3/win0",
+      "scroll": [0.3, 0.3],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 30,
+      "position": [-10, 0],
+      "scale": [0.85, 0.85],
+      "animType": "sparrow",
+      "name": "lights1",
+      "isPixel": false,
+      "assetPath": "dside/W3/win1",
+      "scroll": [0.3, 0.3],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 30,
+      "position": [-10, 0],
+      "scale": [0.85, 0.85],
+      "animType": "sparrow",
+      "name": "lights2",
+      "isPixel": false,
+      "assetPath": "dside/W3/win2",
+      "scroll": [0.3, 0.3],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 30,
+      "position": [-10, 0],
+      "scale": [0.85, 0.85],
+      "animType": "sparrow",
+      "name": "lights3",
+      "isPixel": false,
+      "assetPath": "dside/W3/win3",
+      "scroll": [0.3, 0.3],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 30,
+      "position": [-10, 0],
+      "scale": [0.85, 0.85],
+      "animType": "sparrow",
+      "name": "lights4",
+      "isPixel": false,
+      "assetPath": "dside/W3/win4",
+      "scroll": [0.3, 0.3],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 50,
+      "position": [-40, 50],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "behindTrain",
+      "isPixel": false,
+      "assetPath": "dside/W3/behindTrain",
+      "scroll": [1, 1],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 60,
+      "position": [2000, 360],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "train",
+      "isPixel": false,
+      "assetPath": "dside/W3/train",
+      "scroll": [1, 1],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 70,
+      "position": [-40, 50],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "street",
+      "isPixel": false,
+      "assetPath": "dside/W3/street",
+      "scroll": [1, 1],
+      "animations": []
+    }, 
+    {
+      "name": "Boppers",
+      "assetPath": "dside/W3/Crowd1",
+      "position": [-50, 200],
+      "scale": [1, 1],
+      "scroll": [0.9, 0.9],
+      "danceEvery": 1,
+      "zIndex": 90,
+      "startingAnimation": "idle",
+      "animations": [
+        {
+          "name": "idle",
+          "prefix": "Crowd1 instance",
+          "frameRate": 24,
+          "flipX": false,
+          "flipY": false
+        }
+      ]
+    }
+  ],
+  "cameraZoom": 1.0,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [989.5, 855],
+      "cameraOffsets": [-200, -100]
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [468, 885],
+      "cameraOffsets": [200, -100]
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [0, 0],
+      "position": [751.5, 787]
+    }
+  },
+  "name": "Train (D-Side)"
+}

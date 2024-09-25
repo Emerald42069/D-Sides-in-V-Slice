@@ -1,0 +1,145 @@
+{
+  "version": "1.0.0",
+  "name": "Planeman Battlefield",
+  "cameraZoom": 0.8,
+  "props": [
+    {
+      "name": "planemanbg",
+      "assetPath": "dside/W7/planemanbg",
+      "position": [-400, -400],
+      "scale": [1, 1],
+      "zIndex": 10,
+      "scroll": [0, 0]
+    },
+    {
+      "name": "solid",
+      "assetPath": "#E3A26D",
+      "position": [-500, -1000],
+      "scale": [2400, 2000],
+      "zIndex": 1,
+      "scroll": [0, 0]
+    },
+    {
+      "assetPath": "dside/W7/planeman_tent",
+      "position": [-280, -20],
+      "scale": [1.2, 1.2],
+      "zIndex": 11,
+      "scroll": [0.2, 0.2]
+    },
+    {
+      "name": "bnnuy",
+      "assetPath": "dside/W7/BunnyTankGirl",
+      "position": [100, 50],
+      "scroll": [0.5, 0.5],
+      "scale": [1, 1],
+      "zIndex": 21,
+      "danceEvery": 1,
+      "animations": [
+        {
+          "name": "idle",
+          "prefix": "PlaneBunnyTankGirl instance"
+        }
+      ],
+      "startingAnimation": "idle"
+    },
+    {
+      "name": "b3dad",
+      "assetPath": "dside/W7/b3dad",
+      "position": [100, 50],
+      "scroll": [0.5, 0.5],
+      "scale": [1, 1],
+      "zIndex": 21,
+      "danceEvery": 1,
+      "animations": [
+        {
+          "name": "idle",
+          "prefix": "b3dadinbgidle instance"
+        }
+      ],
+      "startingAnimation": "idle"
+    },
+    {
+      "name": "sniper",
+      "assetPath": "dside/W7/Sniper",
+      "position": [100, 50],
+      "scroll": [0.5, 0.5],
+      "scale": [1, 1],
+      "zIndex": 21,
+      "danceEvery": 1,
+      "animations": [
+        {
+          "name": "idle",
+          "prefix": "SniperIdle instance"
+        }
+      ],
+      "startingAnimation": "idle"
+    },
+    {
+      "name": "PlanemanFloor",
+      "assetPath": "dside/W7/planeman_floor",
+      "position": [-420, -150],
+      "scroll": [1, 1],
+      "scale": [1.15, 1.15],
+      "zIndex": 40
+    },
+    {
+      "name": "PlaneAud1",
+      "assetPath": "dside/W7/PlaneAud1",
+      "zIndex": 1000,
+      "position": [-500, 650],
+      "scale": [1, 1],
+      "scroll": [1.7, 1.5],
+      "danceEvery": 1,
+      "animations": [{ "name": "idle", "prefix": "fg", "looped": false }],
+      "startingAnimation": "idle"
+    },
+    {
+      "name": "tankmanAudience2",
+      "assetPath": "PlaneAud2",
+      "zIndex": 1002,
+      "position": [360, 980],
+      "scale": [1, 1],
+      "scroll": [1.5, 1.5],
+      "danceEvery": 1,
+      "animations": [
+        { "name": "idle", "prefix": "foreground", "looped": false }
+      ],
+      "startingAnimation": "idle"
+    },
+    {
+      "name": "tankmanAudience3",
+      "assetPath": "PlaneAud3",
+      "zIndex": 1016,
+      "position": [1050, 1240],
+      "scale": [1, 1],
+      "scroll": [3.5, 2.5],
+      "danceEvery": 1,
+      "animations": [{ "name": "idle", "prefix": "fg", "looped": false }],
+      "startingAnimation": "idle"
+    },
+    {
+      "name": "tankmanAudience4",
+      "assetPath": "PlaneAud4",
+      "zIndex": 1004,
+      "position": [1200, 900],
+      "scale": [1, 1],
+      "scroll": [1.5, 1.5],
+      "danceEvery": 1,
+      "animations": [{ "name": "idle", "prefix": "fg", "looped": false }],
+      "startingAnimation": "idle"
+    }
+  ],
+  "characters": {
+    "bf": {
+      "zIndex": 100,
+      "position": [1090.5, 885],
+      "cameraOffsets": [-220, -100]
+    },
+    "dad": {
+      "zIndex": 100,
+      "position": [230.5, 996],
+      "cameraOffsets": [250, -100]
+    },
+    "gf": { "zIndex": 100, "position": [660.5, 715], "cameraOffsets": [0, 0] }
+  }
+}

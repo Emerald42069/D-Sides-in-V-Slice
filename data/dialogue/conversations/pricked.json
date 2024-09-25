@@ -1,0 +1,114 @@
+{
+  "version": "1.0.0",
+
+  "backdrop": {
+    "type": "solid",
+    "fadeTime": 2.0,
+    "color": "#BFB3DFD8"
+  },
+
+  "music": {
+    "asset": "LunchboxScary-dside",
+    "fadeTime": 2.0,
+    "looped": true
+  },
+
+  "outro": {
+    "type": "fade",
+    "fadeTime": 1.0
+  },
+
+  "dialogue": [
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "enter",
+
+      "text": [
+        "It has been so long since I have last seen another soul."
+      ],
+      "speed": 1.0
+    },
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "I began to lose sight of myself."
+      ]
+    },
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["Who I truly am. What I truly was."]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["Is this another long ass speech o yours "]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "If so you can cut the shit"
+      ]
+    },
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["...I do not appreciate your tone."]
+    },
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "Especially after bringing her here. "
+      ]
+    },
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["Why have you returned? To mock me?"]
+    },
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["In the end, I will be the one to have the last laugh."]
+    },
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "Hope you enjoy the view. Soon it will be all you know."
+      ]
+    }
+  ]
+}

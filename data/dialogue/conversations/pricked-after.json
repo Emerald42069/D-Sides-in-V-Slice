@@ -1,0 +1,252 @@
+{
+  "version": "1.0.0",
+
+  "backdrop": {
+    "type": "solid",
+    "fadeTime": 2.0,
+    "color": "#BFB3DFD8"
+  },
+
+  "music": {
+    "asset": "LunchboxScary-dside",
+    "fadeTime": 2.0,
+    "looped": true
+  },
+
+  "outro": {
+    "type": "fade",
+    "fadeTime": 1.0
+  },
+
+  "dialogue": [
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "enter",
+
+      "text": [
+        "That was fun while it lasted."
+      ],
+      "speed": 1.0
+    },
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "But prepare-"
+      ]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["Oh my god dude"]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["Cmon"]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "Arent you gettin tired of this"
+      ]
+    },
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["Quite. You have run my patience thin, little man."]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "Look man"
+      ]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["This place has really fucked wit yo brain"]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["I can tell"]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["No need to shit the bed tho yknow what i mean"]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "Lets strike a deal brother"
+      ]
+    },
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "...A deal?"
+      ]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["Hell yeah dude"]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "When i get all chill w dick dearest and im like his son shit"
+      ]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "We come back for you frfr"
+      ]
+    },
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["You’d…"]
+    },
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["You’d do that? For someone you just met?"]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "Look bro "
+      ]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "Youve given my ass such a headache "
+      ]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "You need therapy so you can learn to talk less or sumn"
+      ]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "Jus let us out"
+      ]
+    },
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["...Fine. I’m holding you to that."]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "Bro dont hold me i just said we gotta get out"
+      ]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": [
+        "Stupid"
+      ]
+    },
+    {
+      "speaker": "spirit-dside",
+      "speakerAnimation": "talk",
+      "box": "pricked",
+      "boxAnimation": "idle",
+
+      "text": ["...Just get out of here."]
+    }
+  ]
+}

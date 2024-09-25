@@ -1,0 +1,67 @@
+{
+  "props": [
+    {
+      "name": "solid",
+      "assetPath": "#000000",
+      "position": [-500, -1000],
+      "scale": [2400, 2000],
+      "scroll": [0, 0]
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 10,
+      "position": [-200, 0],
+      "scale": [6, 6],
+      "animType": "sparrow",
+      "name": "evilSchoolBG",
+      "isPixel": true,
+      "assetPath": "dside/W6/weeb/evilSchoolBG",
+      "scroll": [0.6, 0.9],
+      "animations": [
+          {
+          "offsets": [0, 0],
+          "prefix": "background 2 instance0",
+          "looped": true,
+          "flipX": false,
+          "name": "bg",
+          "flipY": false,
+          "frameRate": 24
+        }
+      ]
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 10,
+      "position": [-200, 0],
+      "scale": [6, 6],
+      "animType": "sparrow",
+      "name": "bgGhouls",
+      "isPixel": true,
+      "assetPath": "dside/W6/weeb/bgGhouls",
+      "scroll": [0.6, 0.9],
+      "animations": [
+           {
+          "offsets": [0, 0],
+          "prefix": "BG freaks glitch instance0",
+          "looped": true,
+          "flipX": false,
+          "name": "Bop",
+          "flipY": false,
+          "frameRate": 24
+        }
+      ]
+    }
+  ],
+  "cameraZoom": 1.0,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [1139, 908],
+      "cameraOffsets": [-200, -100]
+    },
+    "dad": { "zIndex": 200, "position": [334, 968], "cameraOffsets": [160, 0] },
+    "gf": { "zIndex": 100, "cameraOffsets": [0, 0], "position": [840, 766] }
+  },
+  "name": "Dojon't"
+}

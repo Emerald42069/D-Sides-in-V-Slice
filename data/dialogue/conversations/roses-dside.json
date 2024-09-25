@@ -1,0 +1,75 @@
+{
+  "version": "1.0.0",
+
+  "backdrop": {
+    "type": "solid",
+    "fadeTime": 2.0,
+    "color": "#BFB3DFD8"
+  },
+
+  "music": {
+    "asset": "Lunchbox-dside",
+    "fadeTime": 2.0,
+    "looped": true
+  },
+
+  "outro": {
+    "type": "fade",
+    "fadeTime": 1.0
+  },
+
+  "dialogue": [
+    {
+      "speaker": "sensei",
+      "speakerAnimation": "talk",
+      "box": "dside",
+      "boxAnimation": "speaking",
+
+      "text": ["...I see. "]
+    },
+    {
+      "speaker": "sensei",
+      "speakerAnimation": "talk",
+      "box": "dside",
+      "boxAnimation": "idle",
+
+      "text": [
+        "You're...more experienced than I thought."
+      ]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "dside",
+      "boxAnimation": "idle",
+
+      "text": ["Bing boing yahoo yahoo yayayayaya"]
+    },
+    {
+      "speaker": "sensei",
+      "speakerAnimation": "talk",
+      "box": "dside",
+      "boxAnimation": "speaking",
+
+      "text": ["I have severely underestimated you. I will not make that mistake again. "]
+    },
+    {
+      "speaker": "sensei",
+      "speakerAnimation": "talk",
+      "box": "dside",
+      "boxAnimation": "idle",
+
+      "text": [
+        "I hope you're ready."
+      ]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "dside",
+      "boxAnimation": "idle",
+
+      "text": ["Eee ahhhhhh ehhunn ehunn ehh CRRRR rrr"]
+    }
+  ]
+}

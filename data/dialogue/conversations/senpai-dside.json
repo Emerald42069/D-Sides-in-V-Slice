@@ -1,0 +1,89 @@
+{
+  "version": "1.0.0",
+
+  "backdrop": {
+    "type": "solid",
+    "fadeTime": 2.0,
+    "color": "#BFB3DFD8"
+  },
+
+  "music": {
+    "asset": "Lunchbox-dside",
+    "fadeTime": 2.0,
+    "looped": true
+  },
+
+  "outro": {
+    "type": "fade",
+    "fadeTime": 1.0
+  },
+
+  "dialogue": [
+    {
+      "speaker": "sensei",
+      "speakerAnimation": "talkEnter",
+      "box": "dside",
+      "boxAnimation": "enter",
+
+      "text": ["Ah, two young grasshoppers approach the dojo."]
+    },
+    {
+      "speaker": "sensei",
+      "speakerAnimation": "talk",
+      "box": "dside",
+      "boxAnimation": "speaking",
+
+      "text": [
+        "Who might you be?"
+      ]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "dside",
+      "boxAnimation": "speaking",
+
+      "text": ["Pee"]
+    },
+    {
+      "speaker": "sensei",
+      "speakerAnimation": "talkEnter",
+      "box": "dside",
+      "boxAnimation": "enter",
+
+      "text": ["...Pee?"]
+    },
+    {
+      "speaker": "sensei",
+      "speakerAnimation": "talkEnter",
+      "box": "dside",
+       "boxAnimation": "enter",
+
+      "text": ["Ah, I need not ask questions. Do you require training?"]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "dside",
+      "boxAnimation": "speaking",
+
+      "text": ["Skitiddy beloop"]
+    },
+    {
+      "speaker": "sensei",
+      "speakerAnimation": "talkEnter",
+      "box": "dside",
+       "boxAnimation": "enter",
+
+      "text": ["Ah, then let us duel. Mano e mano. Prepare yourself, small one!"]
+    },
+    {
+      "speaker": "bf-dside",
+      "speakerAnimation": "talkEnter",
+      "box": "dside",
+      "boxAnimation": "speaking",
+
+      "text": ["Skibidi bup mmduhda"]
+    }
+  ]
+}
