@@ -12,10 +12,14 @@
   "unlocked": true,
   "freeplayStyle": "bf-dside",
   "freeplayDJ": {
-    "assetPath": "freeplay/freeplay-pico",
-    "text1": "DSIDE",
-    "text2": "BOYFRIEND",
-    "text3": "DEEZ NUTS HAHA",
+    "assetPath": "freeplay/freeplay-bf-dside",
+    "cartoon": {
+      "soundClickFrame": 80,
+      "soundCartoonFrame": 85,
+      "loopBlinkFrame": 112,
+      "loopFrame": 166,
+      "channelChangeFrame": 60
+    },
     "fistPump": {
       "introStartFrame": 0,
       "introEndFrame": 4,
@@ -24,43 +28,51 @@
       "loopEndFrame": -1,
 
       "introBadStartFrame": 0,
-      "introBadEndFrame": 0,
+      "introBadEndFrame": 4,
 
-      "loopBadStartFrame": 0,
+      "loopBadStartFrame": 4,
       "loopBadEndFrame": -1
     },
     "charSelect": {
       "transitionDelay": 0.45
     },
+    "text1": "BOYFRIEND",
+    "text2": "HOT BLOODED IN MORE WAYS THAN ONE",
+    "text3": "PROTECT YO NUTS",
     "animations": [
       {
         "name": "intro",
-        "prefix": "pico dj intro",
+        "prefix": "boyfriend dj intro",
         "offsets": [631.7, 362.6]
       },
       {
         "name": "idle",
-        "prefix": "Pico DJ",
+        "prefix": "Boyfriend DJ",
         "offsets": [625, 360]
       },
       {
         "name": "idleEasterEgg",
-        "prefix": "Pico DJ afk",
-        "offsets": [625, 360]
+        "prefix": "bf dj afk",
+        "offsets": [649.5, 58.5]
       },
       {
         "name": "confirm",
-        "prefix": "Pico DJ confirm",
+        "prefix": "Boyfriend DJ confirm",
         "offsets": [625, 360]
       },
       {
         "name": "fistPump",
-        "prefix": "pico cheer",
-        "offsets": [975, 260]
+        "prefix": "Boyfriend DJ fist pump",
+        "offsets": [625, 360]
+      },
+      {
+        "name": "cartoon",
+        "prefix": "Boyfriend DJ watchin tv OG",
+        "offsets": [625, 360]
       },
       {
         "name": "loss",
-        "prefix": "Pico DJ loss",
+        "prefix": "Boyfriend DJ loss reaction 1",
         "offsets": [625, 360]
       },
       {
