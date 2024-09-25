@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="placeholder.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="placeholder menu idle0000" x="5" y="5" width="632" height="534" frameX="0" frameY="-1" frameWidth="632" frameHeight="536"/>
+	<SubTexture name="placeholder menu idle0001" x="5" y="5" width="632" height="534" frameX="0" frameY="-1" frameWidth="632" frameHeight="536"/>
+	<SubTexture name="placeholder menu idle0002" x="642" y="5" width="631" height="535" frameX="-1" frameY="-1" frameWidth="632" frameHeight="536"/>
+	<SubTexture name="placeholder menu idle0003" x="642" y="5" width="631" height="535" frameX="-1" frameY="-1" frameWidth="632" frameHeight="536"/>
+	<SubTexture name="placeholder menu idle0004" x="1278" y="5" width="632" height="535" frameX="0" frameY="0" frameWidth="632" frameHeight="536"/>
+	<SubTexture name="placeholder menu idle0005" x="1278" y="5" width="632" height="535" frameX="0" frameY="0" frameWidth="632" frameHeight="536"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tankman.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Planeman Idle instance 10000" x="0" y="0" width="425" height="312" pivotX="7.35" pivotY="0.1" frameX="0" frameY="-6" frameWidth="425" frameHeight="318"/>
+	<SubTexture name="M Planeman Idle instance 10001" x="0" y="0" width="425" height="312" frameX="0" frameY="-6" frameWidth="425" frameHeight="318"/>
+	<SubTexture name="M Planeman Idle instance 10002" x="425" y="0" width="416" height="311" frameX="-3" frameY="-4" frameWidth="425" frameHeight="318"/>
+	<SubTexture name="M Planeman Idle instance 10003" x="425" y="0" width="416" height="311" frameX="-3" frameY="-4" frameWidth="425" frameHeight="318"/>
+	<SubTexture name="M Planeman Idle instance 10004" x="0" y="312" width="415" height="311" frameX="-6" frameY="-2" frameWidth="425" frameHeight="318"/>
+	<SubTexture name="M Planeman Idle instance 10005" x="0" y="312" width="415" height="311" frameX="-6" frameY="-2" frameWidth="425" frameHeight="318"/>
+	<SubTexture name="M Planeman Idle instance 10006" x="415" y="312" width="415" height="313" frameX="-7" frameY="0" frameWidth="425" frameHeight="318"/>
+	<SubTexture name="M Planeman Idle instance 10007" x="415" y="312" width="415" height="313" frameX="-7" frameY="0" frameWidth="425" frameHeight="318"/>
+	<SubTexture name="M Planeman Idle instance 10008" x="0" y="625" width="414" height="313" frameX="-7" frameY="0" frameWidth="425" frameHeight="318"/>
+	<SubTexture name="M Planeman Idle instance 10009" x="0" y="625" width="414" height="313" frameX="-7" frameY="0" frameWidth="425" frameHeight="318"/>
+	<SubTexture name="M Planeman Idle instance 10010" x="0" y="625" width="414" height="313" frameX="-7" frameY="0" frameWidth="425" frameHeight="318"/>
+	<SubTexture name="M Planeman Idle instance 10011" x="0" y="625" width="414" height="313" frameX="-7" frameY="0" frameWidth="425" frameHeight="318"/>
+	<SubTexture name="M Planeman Idle instance 10012" x="0" y="625" width="414" height="313" frameX="-7" frameY="0" frameWidth="425" frameHeight="318"/>
+	<SubTexture name="M Planeman Idle instance 10013" x="0" y="625" width="414" height="313" frameX="-7" frameY="0" frameWidth="425" frameHeight="318"/>
+</TextureAtlas>
