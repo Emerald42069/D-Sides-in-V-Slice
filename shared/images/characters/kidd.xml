@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kidd.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kidd down0000" x="5" y="5" width="900" height="747" pivotX="75.6" pivotY="-24.25" frameX="-4" frameY="-36" frameWidth="904" frameHeight="785"/>
+	<SubTexture name="kidd down0001" x="5" y="5" width="900" height="747" frameX="-4" frameY="-36" frameWidth="904" frameHeight="785"/>
+	<SubTexture name="kidd down0002" x="911" y="5" width="876" height="785" frameX="0" frameY="0" frameWidth="904" frameHeight="785"/>
+	<SubTexture name="kidd down0003" x="911" y="5" width="876" height="785" frameX="0" frameY="0" frameWidth="904" frameHeight="785"/>
+	<SubTexture name="kidd down0004" x="1793" y="5" width="876" height="785" frameX="0" frameY="0" frameWidth="904" frameHeight="785"/>
+	<SubTexture name="kidd down0005" x="1793" y="5" width="876" height="785" frameX="0" frameY="0" frameWidth="904" frameHeight="785"/>
+	<SubTexture name="kidd down0006" x="2675" y="5" width="876" height="785" frameX="0" frameY="0" frameWidth="904" frameHeight="785"/>
+	<SubTexture name="kidd down0007" x="1793" y="5" width="876" height="785" frameX="0" frameY="0" frameWidth="904" frameHeight="785"/>
+	<SubTexture name="kidd down0008" x="2675" y="5" width="876" height="785" frameX="0" frameY="0" frameWidth="904" frameHeight="785"/>
+	<SubTexture name="kidd down0009" x="1793" y="5" width="876" height="785" frameX="0" frameY="0" frameWidth="904" frameHeight="785"/>
+	<SubTexture name="kidd down0010" x="2675" y="5" width="876" height="785" frameX="0" frameY="0" frameWidth="904" frameHeight="785"/>
+	<SubTexture name="kidd down0011" x="1793" y="5" width="876" height="785" frameX="0" frameY="0" frameWidth="904" frameHeight="785"/>
+	<SubTexture name="kidd down0012" x="2675" y="5" width="876" height="785" frameX="0" frameY="0" frameWidth="904" frameHeight="785"/>
+	<SubTexture name="kidd down0013" x="1793" y="5" width="876" height="785" frameX="0" frameY="0" frameWidth="904" frameHeight="785"/>
+	<SubTexture name="kidd idle0000" x="3557" y="5" width="858" height="1018" pivotX="-2.2" pivotY="-1.35" frameX="-12" frameY="-28" frameWidth="889" frameHeight="1050"/>
+	<SubTexture name="kidd idle0001" x="3557" y="5" width="858" height="1018" frameX="-12" frameY="-28" frameWidth="889" frameHeight="1050"/>
+	<SubTexture name="kidd idle0002" x="4421" y="5" width="874" height="1015" frameX="-9" frameY="-35" frameWidth="889" frameHeight="1050"/>
+	<SubTexture name="kidd idle0003" x="4421" y="5" width="874" height="1015" frameX="-9" frameY="-35" frameWidth="889" frameHeight="1050"/>
+	<SubTexture name="kidd idle0004" x="5301" y="5" width="883" height="1040" frameX="-2" frameY="-10" frameWidth="889" frameHeight="1050"/>
+	<SubTexture name="kidd idle0005" x="5301" y="5" width="883" height="1040" frameX="-2" frameY="-10" frameWidth="889" frameHeight="1050"/>
+	<SubTexture name="kidd idle0006" x="6190" y="5" width="888" height="1048" frameX="0" frameY="-2" frameWidth="889" frameHeight="1050"/>
+	<SubTexture name="kidd idle0007" x="6190" y="5" width="888" height="1048" frameX="0" frameY="-2" frameWidth="889" frameHeight="1050"/>
+	<SubTexture name="kidd idle0008" x="7084" y="5" width="889" height="1050"/>
+	<SubTexture name="kidd idle0009" x="7084" y="5" width="889" height="1050"/>
+	<SubTexture name="kidd idle0010" x="7084" y="5" width="889" height="1050"/>
+	<SubTexture name="kidd idle0011" x="7084" y="5" width="889" height="1050"/>
+	<SubTexture name="kidd idle0012" x="7084" y="5" width="889" height="1050"/>
+	<SubTexture name="kidd idle0013" x="7084" y="5" width="889" height="1050"/>
+	<SubTexture name="kidd idle0014" x="5" y="1061" width="889" height="1050"/>
+	<SubTexture name="kidd idle0015" x="5" y="1061" width="889" height="1050"/>
+	<SubTexture name="kidd idle0016" x="900" y="1061" width="889" height="1050"/>
+	<SubTexture name="kidd idle0017" x="900" y="1061" width="889" height="1050"/>
+	<SubTexture name="kidd idle0018" x="1795" y="1061" width="889" height="1050"/>
+	<SubTexture name="kidd idle0019" x="1795" y="1061" width="889" height="1050"/>
+	<SubTexture name="kidd idle0020" x="7084" y="5" width="889" height="1050"/>
+	<SubTexture name="kidd idle0021" x="7084" y="5" width="889" height="1050"/>
+	<SubTexture name="kidd idle0022" x="7084" y="5" width="889" height="1050"/>
+	<SubTexture name="kidd idle0023" x="7084" y="5" width="889" height="1050"/>
+	<SubTexture name="kidd idle0024" x="7084" y="5" width="889" height="1050"/>
+	<SubTexture name="kidd idle0025" x="7084" y="5" width="889" height="1050"/>
+	<SubTexture name="kidd idle0026" x="7084" y="5" width="889" height="1050"/>
+	<SubTexture name="kidd idle0027" x="7084" y="5" width="889" height="1050"/>
+	<SubTexture name="kidd left0000" x="2690" y="1061" width="1003" height="999" pivotX="77.3" pivotY="-79.9" frameX="0" frameY="-17" frameWidth="1013" frameHeight="1016"/>
+	<SubTexture name="kidd left0001" x="2690" y="1061" width="1003" height="999" frameX="0" frameY="-17" frameWidth="1013" frameHeight="1016"/>
+	<SubTexture name="kidd left0002" x="3699" y="1061" width="994" height="1016" frameX="-19" frameY="0" frameWidth="1013" frameHeight="1016"/>
+	<SubTexture name="kidd left0003" x="3699" y="1061" width="994" height="1016" frameX="-19" frameY="0" frameWidth="1013" frameHeight="1016"/>
+	<SubTexture name="kidd left0004" x="4699" y="1061" width="994" height="1016" frameX="-19" frameY="0" frameWidth="1013" frameHeight="1016"/>
+	<SubTexture name="kidd left0005" x="4699" y="1061" width="994" height="1016" frameX="-19" frameY="0" frameWidth="1013" frameHeight="1016"/>
+	<SubTexture name="kidd left0006" x="5699" y="1061" width="994" height="1016" frameX="-19" frameY="0" frameWidth="1013" frameHeight="1016"/>
+	<SubTexture name="kidd left0007" x="4699" y="1061" width="994" height="1016" frameX="-19" frameY="0" frameWidth="1013" frameHeight="1016"/>
+	<SubTexture name="kidd left0008" x="5699" y="1061" width="994" height="1016" frameX="-19" frameY="0" frameWidth="1013" frameHeight="1016"/>
+	<SubTexture name="kidd left0009" x="4699" y="1061" width="994" height="1016" frameX="-19" frameY="0" frameWidth="1013" frameHeight="1016"/>
+	<SubTexture name="kidd left0010" x="5699" y="1061" width="994" height="1016" frameX="-19" frameY="0" frameWidth="1013" frameHeight="1016"/>
+	<SubTexture name="kidd left0011" x="4699" y="1061" width="994" height="1016" frameX="-19" frameY="0" frameWidth="1013" frameHeight="1016"/>
+	<SubTexture name="kidd left0012" x="5699" y="1061" width="994" height="1016" frameX="-19" frameY="0" frameWidth="1013" frameHeight="1016"/>
+	<SubTexture name="kidd left0013" x="4699" y="1061" width="994" height="1016" frameX="-19" frameY="0" frameWidth="1013" frameHeight="1016"/>
+	<SubTexture name="kidd right0000" x="6699" y="1061" width="862" height="1190" pivotX="32.55" pivotY="75.2" frameX="0" frameY="0" frameWidth="866" frameHeight="1190"/>
+	<SubTexture name="kidd right0001" x="6699" y="1061" width="862" height="1190" frameX="0" frameY="0" frameWidth="866" frameHeight="1190"/>
+	<SubTexture name="kidd right0002" x="5" y="2257" width="862" height="1176" frameX="-4" frameY="-14" frameWidth="866" frameHeight="1190"/>
+	<SubTexture name="kidd right0003" x="5" y="2257" width="862" height="1176" frameX="-4" frameY="-14" frameWidth="866" frameHeight="1190"/>
+	<SubTexture name="kidd right0004" x="873" y="2257" width="862" height="1176" frameX="-4" frameY="-14" frameWidth="866" frameHeight="1190"/>
+	<SubTexture name="kidd right0005" x="873" y="2257" width="862" height="1176" frameX="-4" frameY="-14" frameWidth="866" frameHeight="1190"/>
+	<SubTexture name="kidd right0006" x="1741" y="2257" width="862" height="1176" frameX="-4" frameY="-14" frameWidth="866" frameHeight="1190"/>
+	<SubTexture name="kidd right0007" x="1741" y="2257" width="862" height="1176" frameX="-4" frameY="-14" frameWidth="866" frameHeight="1190"/>
+	<SubTexture name="kidd right0008" x="1741" y="2257" width="862" height="1176" frameX="-4" frameY="-14" frameWidth="866" frameHeight="1190"/>
+	<SubTexture name="kidd right0009" x="1741" y="2257" width="862" height="1176" frameX="-4" frameY="-14" frameWidth="866" frameHeight="1190"/>
+	<SubTexture name="kidd right0010" x="1741" y="2257" width="862" height="1176" frameX="-4" frameY="-14" frameWidth="866" frameHeight="1190"/>
+	<SubTexture name="kidd right0011" x="1741" y="2257" width="862" height="1176" frameX="-4" frameY="-14" frameWidth="866" frameHeight="1190"/>
+	<SubTexture name="kidd right0012" x="1741" y="2257" width="862" height="1176" frameX="-4" frameY="-14" frameWidth="866" frameHeight="1190"/>
+	<SubTexture name="kidd right0013" x="1741" y="2257" width="862" height="1176" frameX="-4" frameY="-14" frameWidth="866" frameHeight="1190"/>
+	<SubTexture name="kidd up0000" x="2609" y="2257" width="922" height="1313" pivotX="102.6" pivotY="126.7" frameX="-9" frameY="0" frameWidth="952" frameHeight="1314"/>
+	<SubTexture name="kidd up0001" x="2609" y="2257" width="922" height="1313" frameX="-9" frameY="0" frameWidth="952" frameHeight="1314"/>
+	<SubTexture name="kidd up0002" x="3537" y="2257" width="952" height="1259" frameX="0" frameY="-55" frameWidth="952" frameHeight="1314"/>
+	<SubTexture name="kidd up0003" x="3537" y="2257" width="952" height="1259" frameX="0" frameY="-55" frameWidth="952" frameHeight="1314"/>
+	<SubTexture name="kidd up0004" x="3537" y="2257" width="952" height="1259" frameX="0" frameY="-55" frameWidth="952" frameHeight="1314"/>
+	<SubTexture name="kidd up0005" x="3537" y="2257" width="952" height="1259" frameX="0" frameY="-55" frameWidth="952" frameHeight="1314"/>
+	<SubTexture name="kidd up0006" x="3537" y="2257" width="952" height="1259" frameX="0" frameY="-55" frameWidth="952" frameHeight="1314"/>
+	<SubTexture name="kidd up0007" x="3537" y="2257" width="952" height="1259" frameX="0" frameY="-55" frameWidth="952" frameHeight="1314"/>
+	<SubTexture name="kidd up0008" x="3537" y="2257" width="952" height="1259" frameX="0" frameY="-55" frameWidth="952" frameHeight="1314"/>
+	<SubTexture name="kidd up0009" x="3537" y="2257" width="952" height="1259" frameX="0" frameY="-55" frameWidth="952" frameHeight="1314"/>
+	<SubTexture name="kidd up0010" x="3537" y="2257" width="952" height="1259" frameX="0" frameY="-55" frameWidth="952" frameHeight="1314"/>
+	<SubTexture name="kidd up0011" x="3537" y="2257" width="952" height="1259" frameX="0" frameY="-55" frameWidth="952" frameHeight="1314"/>
+	<SubTexture name="kidd up0012" x="3537" y="2257" width="952" height="1259" frameX="0" frameY="-55" frameWidth="952" frameHeight="1314"/>
+	<SubTexture name="kidd up0013" x="3537" y="2257" width="952" height="1259" frameX="0" frameY="-55" frameWidth="952" frameHeight="1314"/>
+</TextureAtlas>

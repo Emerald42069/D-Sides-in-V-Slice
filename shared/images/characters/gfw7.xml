@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfw7.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Beat WEEK70000" x="0" y="0" width="1174" height="970" pivotX="371.8" pivotY="644.85" frameX="0" frameY="-13" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70001" x="1174" y="0" width="1174" height="970" frameX="0" frameY="-13" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70002" x="2348" y="0" width="1174" height="971" frameX="0" frameY="-12" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70003" x="0" y="971" width="1174" height="971" frameX="0" frameY="-12" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70004" x="1174" y="971" width="1164" height="979" frameX="-5" frameY="-4" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70005" x="2338" y="971" width="1164" height="979" frameX="-5" frameY="-4" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70006" x="0" y="1950" width="1158" height="983" frameX="-8" frameY="0" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70007" x="1158" y="1950" width="1158" height="983" frameX="-8" frameY="0" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70008" x="2316" y="1950" width="1158" height="982" frameX="-8" frameY="-1" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70009" x="2316" y="1950" width="1158" height="982" frameX="-8" frameY="-1" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70010" x="0" y="2933" width="1158" height="982" frameX="-8" frameY="-1" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70011" x="0" y="2933" width="1158" height="982" frameX="-8" frameY="-1" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70012" x="0" y="2933" width="1158" height="982" frameX="-8" frameY="-1" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70013" x="1158" y="2933" width="1158" height="982" frameX="-8" frameY="-1" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70014" x="1158" y="2933" width="1158" height="982" frameX="-8" frameY="-1" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70015" x="2316" y="2933" width="1174" height="970" frameX="0" frameY="-13" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70016" x="0" y="3915" width="1174" height="970" frameX="0" frameY="-13" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70017" x="1174" y="3915" width="1174" height="971" frameX="0" frameY="-12" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70018" x="2348" y="3915" width="1174" height="971" frameX="0" frameY="-12" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70019" x="0" y="4886" width="1164" height="979" frameX="-5" frameY="-4" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70020" x="1164" y="4886" width="1164" height="979" frameX="-5" frameY="-4" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70021" x="2328" y="4886" width="1158" height="983" frameX="-8" frameY="0" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70022" x="0" y="5869" width="1158" height="983" frameX="-8" frameY="0" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70023" x="1158" y="5869" width="1158" height="982" frameX="-8" frameY="-1" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70024" x="1158" y="5869" width="1158" height="982" frameX="-8" frameY="-1" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70025" x="2316" y="5869" width="1158" height="982" frameX="-8" frameY="-1" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70026" x="2316" y="5869" width="1158" height="982" frameX="-8" frameY="-1" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70027" x="2316" y="5869" width="1158" height="982" frameX="-8" frameY="-1" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70028" x="0" y="6852" width="1158" height="982" frameX="-8" frameY="-1" frameWidth="1174" frameHeight="983"/>
+	<SubTexture name="GF Dancing Beat WEEK70029" x="0" y="6852" width="1158" height="982" frameX="-8" frameY="-1" frameWidth="1174" frameHeight="983"/>
+</TextureAtlas>
