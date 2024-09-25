@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GodFeastTenmaGameOverSheet.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gameoverloop0000" x="0" y="0" width="709" height="80" pivotX="19" pivotY="2" frameX="-31" frameY="-3" frameWidth="772" frameHeight="87"/>
+	<SubTexture name="gameoverloop0001" x="709" y="0" width="772" height="87"/>
+	<SubTexture name="gameoverloop0002" x="709" y="0" width="772" height="87"/>
+	<SubTexture name="gameoverloop0003" x="1481" y="0" width="740" height="83" frameX="-15" frameY="-2" frameWidth="772" frameHeight="87"/>
+	<SubTexture name="gameoverloop0004" x="1481" y="0" width="740" height="83" frameX="-15" frameY="-2" frameWidth="772" frameHeight="87"/>
+	<SubTexture name="gameoverloop0005" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0006" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0007" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0008" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0009" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0010" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0011" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0012" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0013" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0014" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0015" x="0" y="0" width="709" height="80" frameX="-31" frameY="-3" frameWidth="772" frameHeight="87"/>
+	<SubTexture name="gameoverloop0016" x="709" y="0" width="772" height="87"/>
+	<SubTexture name="gameoverloop0017" x="709" y="0" width="772" height="87"/>
+	<SubTexture name="gameoverloop0018" x="2221" y="0" width="740" height="83" frameX="-15" frameY="-2" frameWidth="772" frameHeight="87"/>
+	<SubTexture name="gameoverloop0019" x="2221" y="0" width="740" height="83" frameX="-15" frameY="-2" frameWidth="772" frameHeight="87"/>
+	<SubTexture name="gameoverloop0020" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0021" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0022" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0023" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0024" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0025" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0026" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0027" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0028" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0029" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0030" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0031" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0032" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverloop0033" x="733" y="5382" width="733" height="82" frameX="-19" frameY="-2" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="gameoverretry0000" x="2961" y="0" width="928" height="359" pivotX="94.8" pivotY="151.85"/>
+	<SubTexture name="gameoverretry0001" x="0" y="359" width="928" height="359"/>
+	<SubTexture name="gameoverretry0002" x="928" y="359" width="928" height="359"/>
+	<SubTexture name="gameoverretry0003" x="1856" y="359" width="928" height="359"/>
+	<SubTexture name="gameoverretry0004" x="2784" y="359" width="928" height="359"/>
+	<SubTexture name="gameoverretry0005" x="0" y="718" width="928" height="359"/>
+	<SubTexture name="gameoverretry0006" x="928" y="718" width="928" height="359"/>
+	<SubTexture name="gameoverretry0007" x="1856" y="718" width="928" height="359"/>
+	<SubTexture name="gameoverretry0008" x="2784" y="718" width="928" height="359"/>
+	<SubTexture name="gameoverretry0009" x="0" y="1077" width="928" height="359"/>
+	<SubTexture name="gameoverretry0010" x="928" y="1077" width="928" height="359"/>
+	<SubTexture name="gameoverretry0011" x="1856" y="1077" width="928" height="359"/>
+	<SubTexture name="gameoverretry0012" x="2784" y="1077" width="928" height="359"/>
+	<SubTexture name="gameoverretry0013" x="0" y="1436" width="928" height="359"/>
+	<SubTexture name="gameoverretry0014" x="928" y="1436" width="928" height="359"/>
+	<SubTexture name="gameoverretry0015" x="1856" y="1436" width="928" height="359"/>
+	<SubTexture name="gameoverretry0016" x="2784" y="1436" width="928" height="359"/>
+	<SubTexture name="gameoverretry0017" x="0" y="1795" width="928" height="359"/>
+	<SubTexture name="gameoverretry0018" x="928" y="1795" width="928" height="359"/>
+	<SubTexture name="gameoverretry0019" x="1856" y="1795" width="928" height="359"/>
+	<SubTexture name="gameoverretry0020" x="2784" y="1795" width="928" height="359"/>
+	<SubTexture name="gameoverretry0021" x="0" y="2154" width="928" height="359"/>
+	<SubTexture name="gameoverretry0022" x="928" y="2154" width="928" height="359"/>
+	<SubTexture name="gameoverretry0023" x="1856" y="2154" width="928" height="359"/>
+	<SubTexture name="gameoverretry0024" x="2784" y="2154" width="928" height="359"/>
+	<SubTexture name="gameoverretry0025" x="0" y="2513" width="928" height="359"/>
+	<SubTexture name="gameoverretry0026" x="928" y="2513" width="928" height="359"/>
+	<SubTexture name="gameoverretry0027" x="928" y="2513" width="928" height="359"/>
+	<SubTexture name="gameoverretry0028" x="928" y="2513" width="928" height="359"/>
+	<SubTexture name="gameoverretry0029" x="928" y="2513" width="928" height="359"/>
+	<SubTexture name="gameoverretry0030" x="928" y="2513" width="928" height="359"/>
+	<SubTexture name="gameoverretry0031" x="928" y="2513" width="928" height="359"/>
+	<SubTexture name="gameoverretry0032" x="928" y="2513" width="928" height="359"/>
+	<SubTexture name="gameoverretry0033" x="928" y="2513" width="928" height="359"/>
+	<SubTexture name="gameoverretry0034" x="928" y="2513" width="928" height="359"/>
+	<SubTexture name="tenmagameover0000" x="1856" y="2513" width="940" height="742" pivotX="95.7" pivotY="164.4" frameX="-4" frameY="-15" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0001" x="2796" y="2513" width="950" height="768" frameX="0" frameY="0" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0002" x="0" y="3281" width="950" height="768" frameX="0" frameY="0" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0003" x="950" y="3281" width="904" height="777" frameX="-64" frameY="-12" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0004" x="1854" y="3281" width="904" height="777" frameX="-64" frameY="-12" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0005" x="2758" y="3281" width="902" height="783" frameX="-78" frameY="-28" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0006" x="0" y="4064" width="495" height="491" frameX="-279" frameY="-167" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0007" x="0" y="4064" width="495" height="491" frameX="-279" frameY="-167" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0008" x="495" y="4064" width="495" height="490" frameX="-279" frameY="-166" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0009" x="495" y="4064" width="495" height="490" frameX="-279" frameY="-166" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0010" x="990" y="4064" width="495" height="491" frameX="-279" frameY="-164" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0011" x="990" y="4064" width="495" height="491" frameX="-279" frameY="-164" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0012" x="990" y="4064" width="495" height="491" frameX="-279" frameY="-164" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0013" x="990" y="4064" width="495" height="491" frameX="-279" frameY="-164" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0014" x="990" y="4064" width="495" height="491" frameX="-279" frameY="-164" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0015" x="495" y="4064" width="495" height="490" frameX="-279" frameY="-166" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0016" x="495" y="4064" width="495" height="490" frameX="-279" frameY="-166" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0017" x="495" y="4064" width="495" height="490" frameX="-279" frameY="-166" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0018" x="1485" y="4064" width="495" height="490" frameX="-279" frameY="-170" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0019" x="1485" y="4064" width="495" height="490" frameX="-279" frameY="-170" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0020" x="1980" y="4064" width="495" height="491" frameX="-279" frameY="-177" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0021" x="1980" y="4064" width="495" height="491" frameX="-279" frameY="-177" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0022" x="2475" y="4064" width="495" height="491" frameX="-279" frameY="-190" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0023" x="2475" y="4064" width="495" height="491" frameX="-279" frameY="-190" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0024" x="2970" y="4064" width="385" height="761" frameX="-327" frameY="-196" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0025" x="3355" y="4064" width="261" height="990" frameX="-382" frameY="-678" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0026" x="3355" y="4064" width="261" height="990" frameX="-382" frameY="-678" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0027" x="3616" y="4064" width="1" height="1" frameX="-95" frameY="-164" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0028" x="3616" y="4064" width="1" height="1" frameX="-95" frameY="-164" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0029" x="3616" y="4064" width="1" height="1" frameX="-95" frameY="-164" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0030" x="3616" y="4064" width="1" height="1" frameX="-95" frameY="-164" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0031" x="3616" y="4064" width="1" height="1" frameX="-95" frameY="-164" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0032" x="3616" y="4064" width="1" height="1" frameX="-95" frameY="-164" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0033" x="3616" y="4064" width="1" height="1" frameX="-95" frameY="-164" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0034" x="3616" y="4064" width="1" height="1" frameX="-95" frameY="-164" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0035" x="3616" y="4064" width="1" height="1" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0036" x="0" y="5054" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0037" x="733" y="5054" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0038" x="1466" y="5054" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0039" x="2199" y="5054" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0040" x="2932" y="5054" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0041" x="0" y="5136" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0042" x="733" y="5136" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0043" x="1466" y="5136" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0044" x="2199" y="5136" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0045" x="2932" y="5136" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0046" x="0" y="5218" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0047" x="733" y="5218" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0048" x="1466" y="5218" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0049" x="2199" y="5218" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0050" x="2932" y="5218" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0051" x="0" y="5300" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0052" x="733" y="5300" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0053" x="1466" y="5300" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0054" x="2199" y="5300" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0055" x="2932" y="5300" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0056" x="0" y="5382" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+	<SubTexture name="tenmagameover0057" x="733" y="5382" width="733" height="82" frameX="-136" frameY="-289" frameWidth="980" frameHeight="1668"/>
+</TextureAtlas>

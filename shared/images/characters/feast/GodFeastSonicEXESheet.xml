@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GodFeastSonicEXESheet.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sonic.exeRight0000" x="0" y="0" width="420" height="464" pivotX="0" pivotY="2.1" frameX="-8" frameY="0" frameWidth="428" frameHeight="464"/>
+	<SubTexture name="Sonic.exeRight0001" x="0" y="0" width="420" height="464" frameX="-8" frameY="0" frameWidth="428" frameHeight="464"/>
+	<SubTexture name="Sonic.exeRight0002" x="420" y="0" width="423" height="462" frameX="0" frameY="-2" frameWidth="428" frameHeight="464"/>
+	<SubTexture name="Sonic.exeRight0003" x="420" y="0" width="423" height="462" frameX="0" frameY="-2" frameWidth="428" frameHeight="464"/>
+	<SubTexture name="Sonic.exeRight0004" x="420" y="0" width="423" height="462" frameX="0" frameY="-2" frameWidth="428" frameHeight="464"/>
+	<SubTexture name="SonicexeIdle0000" x="843" y="0" width="407" height="472" pivotX="0" pivotY="3.05" frameX="-10" frameY="-4" frameWidth="421" frameHeight="476"/>
+	<SubTexture name="SonicexeIdle0001" x="843" y="0" width="407" height="472" frameX="-10" frameY="-4" frameWidth="421" frameHeight="476"/>
+	<SubTexture name="SonicexeIdle0002" x="1250" y="0" width="410" height="476" frameX="-11" frameY="0" frameWidth="421" frameHeight="476"/>
+	<SubTexture name="SonicexeIdle0003" x="1250" y="0" width="410" height="476" frameX="-11" frameY="0" frameWidth="421" frameHeight="476"/>
+	<SubTexture name="SonicexeIdle0004" x="0" y="476" width="403" height="474" frameX="-3" frameY="-2" frameWidth="421" frameHeight="476"/>
+	<SubTexture name="SonicexeIdle0005" x="0" y="476" width="403" height="474" frameX="-3" frameY="-2" frameWidth="421" frameHeight="476"/>
+	<SubTexture name="SonicexeIdle0006" x="403" y="476" width="403" height="473" frameX="-1" frameY="-3" frameWidth="421" frameHeight="476"/>
+	<SubTexture name="SonicexeIdle0007" x="403" y="476" width="403" height="473" frameX="-1" frameY="-3" frameWidth="421" frameHeight="476"/>
+	<SubTexture name="SonicexeIdle0008" x="806" y="476" width="403" height="473" frameX="0" frameY="-3" frameWidth="421" frameHeight="476"/>
+	<SubTexture name="SonicexeIdle0009" x="806" y="476" width="403" height="473" frameX="0" frameY="-3" frameWidth="421" frameHeight="476"/>
+	<SubTexture name="SonicexeIdle0010" x="806" y="476" width="403" height="473" frameX="0" frameY="-3" frameWidth="421" frameHeight="476"/>
+	<SubTexture name="SonicexeIdle0011" x="806" y="476" width="403" height="473" frameX="0" frameY="-3" frameWidth="421" frameHeight="476"/>
+	<SubTexture name="SonicexeIdle0012" x="806" y="476" width="403" height="473" frameX="0" frameY="-3" frameWidth="421" frameHeight="476"/>
+	<SubTexture name="SonicexeIdle0013" x="806" y="476" width="403" height="473" frameX="0" frameY="-3" frameWidth="421" frameHeight="476"/>
+	<SubTexture name="SonicexeLeft0000" x="1209" y="476" width="368" height="474" pivotX="8.7" pivotY="0" frameX="0" frameY="0" frameWidth="376" frameHeight="474"/>
+	<SubTexture name="SonicexeLeft0001" x="1209" y="476" width="368" height="474" frameX="0" frameY="0" frameWidth="376" frameHeight="474"/>
+	<SubTexture name="SonicexeLeft0002" x="1577" y="476" width="368" height="474" frameX="-8" frameY="0" frameWidth="376" frameHeight="474"/>
+	<SubTexture name="SonicexeLeft0003" x="1577" y="476" width="368" height="474" frameX="-8" frameY="0" frameWidth="376" frameHeight="474"/>
+	<SubTexture name="SonicexeLeft0004" x="1577" y="476" width="368" height="474" frameX="-8" frameY="0" frameWidth="376" frameHeight="474"/>
+	<SubTexture name="sonicexedown0000" x="0" y="950" width="430" height="435" pivotX="0" pivotY="0" frameX="-6" frameY="-6" frameWidth="436" frameHeight="442"/>
+	<SubTexture name="sonicexedown0001" x="0" y="950" width="430" height="435" frameX="-6" frameY="-6" frameWidth="436" frameHeight="442"/>
+	<SubTexture name="sonicexedown0002" x="430" y="950" width="427" height="442" frameX="0" frameY="0" frameWidth="436" frameHeight="442"/>
+	<SubTexture name="sonicexedown0003" x="430" y="950" width="427" height="442" frameX="0" frameY="0" frameWidth="436" frameHeight="442"/>
+	<SubTexture name="sonicexedown0004" x="430" y="950" width="427" height="442" frameX="0" frameY="0" frameWidth="436" frameHeight="442"/>
+	<SubTexture name="sonicexeup0000" x="857" y="950" width="406" height="498" pivotX="0" pivotY="6.4"/>
+	<SubTexture name="sonicexeup0001" x="857" y="950" width="406" height="498"/>
+	<SubTexture name="sonicexeup0002" x="1263" y="950" width="404" height="491" frameX="0" frameY="-6" frameWidth="406" frameHeight="498"/>
+	<SubTexture name="sonicexeup0003" x="1263" y="950" width="404" height="491" frameX="0" frameY="-6" frameWidth="406" frameHeight="498"/>
+	<SubTexture name="sonicexeup0004" x="1263" y="950" width="404" height="491" frameX="0" frameY="-6" frameWidth="406" frameHeight="498"/>
+</TextureAtlas>
