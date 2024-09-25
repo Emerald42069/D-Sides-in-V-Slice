@@ -18,3 +18,4 @@ Bonus Songs (Too slow, foolhardy etc) - Unfinished
 - replace "freeplayRandom.ogg" with a dside version when variation is dside-Emerald
 - make the freeplay stars flames purple on dside?-Emerald
 - make the freeplay capsules look more like the cassetes in base dside's freeplay?-Emerald
+- change d-side ost album text from "FNF OST VOL1" to "FNF D-SIDES OST"-Emerald
