@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="byeguys.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flying0000" x="5" y="5" width="745" height="845" pivotX="32.65" pivotY="-14.05" frameX="-43" frameY="0" frameWidth="788" frameHeight="923"/>
+	<SubTexture name="flying0001" x="756" y="5" width="745" height="845" frameX="-43" frameY="0" frameWidth="788" frameHeight="923"/>
+	<SubTexture name="flying0002" x="1507" y="5" width="687" height="863" frameX="-89" frameY="-33" frameWidth="788" frameHeight="923"/>
+	<SubTexture name="flying0003" x="2200" y="5" width="671" height="865" frameX="-68" frameY="-58" frameWidth="788" frameHeight="923"/>
+	<SubTexture name="flying0004" x="2877" y="5" width="765" height="823" frameX="0" frameY="-19" frameWidth="788" frameHeight="923"/>
+	<SubTexture name="flying0005" x="5" y="876" width="765" height="823" frameX="0" frameY="-19" frameWidth="788" frameHeight="923"/>
+	<SubTexture name="flying0006" x="776" y="876" width="684" height="877" frameX="-9" frameY="-19" frameWidth="788" frameHeight="923"/>
+	<SubTexture name="flying0007" x="1466" y="876" width="650" height="862" frameX="-59" frameY="-58" frameWidth="788" frameHeight="923"/>
+</TextureAtlas>
