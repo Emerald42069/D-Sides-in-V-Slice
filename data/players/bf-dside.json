@@ -85,52 +85,91 @@
     "perfect": [
       {
         "renderType": "animateatlas",
-        "assetPath": "shared:resultScreen/results-pico/resultsPERFECT",
+        "assetPath": "shared:resultScreen/results-dbf/resultsGOOD/bf",
         "zIndex": 500,
-        "scale": 0.88,
-        "offsets": [385, 82],
-        "loopFrame": 91
+        "scale": 1.0,
+        "offsets": [700, 370],
+        "loopFrame": 41
+      },
+      {
+        "renderType": "sparrow",
+        "assetPath": "shared:resultScreen/results-dbf/resultsGOOD/resultGirlfriendGOOD",
+        "zIndex": 500,
+        "delay": 0.91,
+        "offsets": [629, 323],
+        "loopFrame": 9
       }
     ],
     "excellent": [
       {
         "renderType": "animateatlas",
-        "assetPath": "shared:resultScreen/results-pico/resultsEXCELLENT",
+        "assetPath": "shared:resultScreen/results-dbf/resultsGOOD/bf",
         "zIndex": 500,
-        "scale": 1.25,
-        "offsets": [350, 25],
-        "looped": true,
-        "loopFrame": 32
+        "scale": 1.0,
+        "offsets": [700, 370],
+        "loopFrame": 41
+      },
+      {
+        "renderType": "sparrow",
+        "assetPath": "shared:resultScreen/results-dbf/resultsGOOD/resultGirlfriendGOOD",
+        "zIndex": 500,
+        "delay": 0.91,
+        "offsets": [629, 323],
+        "loopFrame": 9
       }
     ],
     "great": [
       {
         "renderType": "animateatlas",
-        "assetPath": "shared:resultScreen/results-pico/resultsGREAT",
+        "assetPath": "shared:resultScreen/results-dbf/resultsGOOD/bf",
         "zIndex": 500,
-        "scale": 1.25,
-        "offsets": [350, 25],
-        "looped": true,
-        "loopFrame": 32
+        "scale": 1.0,
+        "offsets": [700, 370],
+        "loopFrame": 41
+      },
+      {
+        "renderType": "sparrow",
+        "assetPath": "shared:resultScreen/results-dbf/resultsGOOD/resultGirlfriendGOOD",
+        "zIndex": 500,
+        "delay": 0.91,
+        "offsets": [629, 323],
+        "loopFrame": 9
       }
     ],
     "good": [
       {
         "renderType": "animateatlas",
-        "assetPath": "shared:resultScreen/results-pico/resultsGOOD",
+        "assetPath": "shared:resultScreen/results-dbf/resultsGOOD/bf",
         "zIndex": 500,
-        "scale": 1.25,
-        "offsets": [350, 25],
+        "scale": 1.0,
+        "offsets": [700, 370],
         "loopFrame": 41
+      },
+      {
+        "renderType": "sparrow",
+        "assetPath": "shared:resultScreen/results-dbf/resultsGOOD/resultGirlfriendGOOD",
+        "zIndex": 500,
+        "delay": 0.91,
+        "offsets": [629, 323],
+        "loopFrame": 9
       }
     ],
     "loss": [
       {
         "renderType": "animateatlas",
-        "assetPath": "shared:resultScreen/results-pico/resultsSHIT",
+        "assetPath": "shared:resultScreen/results-dbf/resultsGOOD/bf",
         "zIndex": 500,
-        "offsets": [-185, -125],
-        "loopFrame": 0
+        "scale": 1.0,
+        "offsets": [700, 370],
+        "loopFrame": 41
+      },
+      {
+        "renderType": "sparrow",
+        "assetPath": "shared:resultScreen/results-dbf/resultsGOOD/resultGirlfriendGOOD",
+        "zIndex": 500,
+        "delay": 0.91,
+        "offsets": [629, 323],
+        "loopFrame": 9
       }
     ]
   }
