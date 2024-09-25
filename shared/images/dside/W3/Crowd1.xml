@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Crowd1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Crowd1 instance 10000" x="0" y="0" width="1494" height="552" pivotX="62.75" pivotY="-149.75" frameX="-15" frameY="-5" frameWidth="1509" frameHeight="557"/>
+	<SubTexture name="Crowd1 instance 10001" x="0" y="0" width="1494" height="552" frameX="-15" frameY="-5" frameWidth="1509" frameHeight="557"/>
+	<SubTexture name="Crowd1 instance 10002" x="0" y="552" width="1488" height="551" frameX="-17" frameY="-6" frameWidth="1509" frameHeight="557"/>
+	<SubTexture name="Crowd1 instance 10003" x="0" y="552" width="1488" height="551" frameX="-17" frameY="-6" frameWidth="1509" frameHeight="557"/>
+	<SubTexture name="Crowd1 instance 10004" x="0" y="1103" width="1493" height="555" frameX="-10" frameY="-2" frameWidth="1509" frameHeight="557"/>
+	<SubTexture name="Crowd1 instance 10005" x="0" y="1103" width="1493" height="555" frameX="-10" frameY="-2" frameWidth="1509" frameHeight="557"/>
+	<SubTexture name="Crowd1 instance 10006" x="0" y="1658" width="1499" height="557" frameX="-2" frameY="0" frameWidth="1509" frameHeight="557"/>
+	<SubTexture name="Crowd1 instance 10007" x="0" y="1658" width="1499" height="557" frameX="-2" frameY="0" frameWidth="1509" frameHeight="557"/>
+	<SubTexture name="Crowd1 instance 10008" x="0" y="2215" width="1500" height="557" frameX="0" frameY="0" frameWidth="1509" frameHeight="557"/>
+	<SubTexture name="Crowd1 instance 10009" x="0" y="2215" width="1500" height="557" frameX="0" frameY="0" frameWidth="1509" frameHeight="557"/>
+	<SubTexture name="Crowd1 instance 10010" x="0" y="2215" width="1500" height="557" frameX="0" frameY="0" frameWidth="1509" frameHeight="557"/>
+	<SubTexture name="Crowd1 instance 10011" x="0" y="2215" width="1500" height="557" frameX="0" frameY="0" frameWidth="1509" frameHeight="557"/>
+	<SubTexture name="Crowd1 instance 10012" x="0" y="2215" width="1500" height="557" frameX="0" frameY="0" frameWidth="1509" frameHeight="557"/>
+	<SubTexture name="Crowd1 instance 10013" x="0" y="2215" width="1500" height="557" frameX="0" frameY="0" frameWidth="1509" frameHeight="557"/>
+</TextureAtlas>
