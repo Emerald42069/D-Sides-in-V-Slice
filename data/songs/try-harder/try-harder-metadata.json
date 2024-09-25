@@ -1,0 +1,51 @@
+{
+  "version": "2.2.3",
+  "songName": "Try Harder",
+  "artist": "Philiplol",
+  "looped": false,
+  "offsets": {
+    "instrumental": 0,
+    "altInstrumentals": {    },
+    "vocals": {    }
+  },
+  "playData": {
+    "album": "D-Sides",
+    "songVariations": [    ],
+    "difficulties": [
+      "normal",
+      "dsidediff"
+    ],
+    "characters": {
+      "player": "bf-dside",
+      "girlfriend": "gf-dside",
+      "opponent": "monster",
+      "instrumental": "",
+      "altInstrumentals": [      ]
+    },
+    "stage": "mainStage",
+    "noteStyle": "funkin",
+    "ratings": {
+      "dsidediff": 0,
+      "normal": 2
+    },
+    "previewStart": 0,
+    "previewEnd": 0
+  },
+  "generatedBy": "Friday Night Funkin' - v0.4.1",
+  "timeFormat": "ms",
+  "timeChanges": [
+    {
+      "t": 0,
+      "b": 0,
+      "bpm": 192,
+      "n": 4,
+      "d": 4,
+      "bt": [
+        4,
+        4,
+        4,
+        4
+      ]
+    }
+  ]
+}

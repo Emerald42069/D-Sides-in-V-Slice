@@ -1,0 +1,50 @@
+{
+  "version": "2.2.3",
+  "songName": "Satin Panties D-Side",
+  "artist": "Philiplol",
+  "divisions": 96,
+  "looped": false,
+  "offsets": {
+    "instrumental": 0,
+    "altInstrumentals": {    },
+    "vocals": {    }
+  },
+  "playData": {
+    "album": "D-Sides",
+    "songVariations": [    ],
+    "difficulties": [
+      "dsidediff"
+    ],
+    "characters": {
+      "player": "bf-dsidecar",
+      "girlfriend": "gf-dsidecar",
+      "opponent": "mom-dside",
+      "instrumental": "dside",
+      "altInstrumentals": [      ]
+    },
+    "stage": "planeRide",
+    "noteStyle": "[text => Normal, id => Normal]",
+    "ratings": {
+      "dsidediff": 6
+    },
+    "previewStart": 0,
+    "previewEnd": 0
+  },
+  "generatedBy": "Friday Night Funkin' - v0.4.1",
+  "timeFormat": "ms",
+  "timeChanges": [
+    {
+      "t": 0,
+      "b": 0,
+      "bpm": 172,
+      "n": 4,
+      "d": 4,
+      "bt": [
+        4,
+        4,
+        4,
+        4
+      ]
+    }
+  ]
+}
