@@ -1,0 +1,20 @@
+Week 1 - Done
+Week 2 - Done
+Week 3 - Nearly done only needs note types and general polish 
+Week 4 - Done
+Week 5 - Unfinished
+Week 6 - About halfway just need to fix the random crashing before able to continue
+Week 7 - Unfinished (Note: figure out how to do the plane tilting effect in stress)
+Bonus Songs (Too slow, foolhardy etc) - Unfinished 
+
+- add custom result screen music for dside -Emerald
+- add custom result animation for dside -Emerald
+- change the accuracy ratings to the dside ones? -Emerald
+
+- change the dj bf to be dside bf when variation is dside -Emerald
+- add custom albums -Emerald
+- replace "freeplayBGdad.png" with a dside version when variation is dside -Emerald
+  as of now "freeplayBGdad.png" is hardcoded into it meaning we cant change it im pretty sure -Luigiboi
+- replace "freeplayRandom.ogg" with a dside version when variation is dside-Emerald
+- make the freeplay stars flames purple on dside?-Emerald
+- make the freeplay capsules look more like the cassetes in base dside's freeplay?-Emerald

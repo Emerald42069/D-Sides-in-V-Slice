@@ -1,0 +1,32 @@
+Dside Port Bugs 
+
+>Misc~ Combo numbers aren’t replaced with dside versions-Emerald
+
+>CharacterSelect~ Bfs offset is compleatly wack once again eugh -Luigiboi
+
+>RankScreen~ none of the ranks work for dside bf yet apperantly it doesn't have an animation (fnf is lying to us) -Luigiboi
+
+>Freeplay~ difficulty bug (pressing left or right will make nothing show up), after a song ends get booted to freeplay on random with no songs songs only apear once pressing left or Right.when finishing a song and getting a rank for some reason it ranks random? but after pressing right and making the songs show it goes to the correct song -Luigiboi
+
+>Tutorial~ bf and gf offsets/positions still janky also bf looks like he is almost falling of the stage lol -Luigiboi
+
+>Week1~ in bobeepo bf doesnt to the hey anim and in dadbattle the offsets are so god damn janky xd also dad has a few offset/position issues! -Luigiboi
+
+>Week2~ first song has camera issues in the begining and the chart on the second song is weirdly behind? like the beeps come 1 note before the note comes it seems almost? idk its pretty weird eugh VERY NOTICABLE IN THE MOSTER SONG JESUS once again offsets/positions are janky -Luigiboi
+
+>Week3~ when pico should relode the gun he doesnt and bf gets the notes instead lol camera bugs once again and its too zoomed in im pretty sure also in blammed pico doesnt do his shooting animation when he should be shooting but that will probably get fixed when we actualy get the notes working lol
+also not really a bug but the pixel icon for pico has his eyes switched lol once again offsets/positions are janky -Luigiboi
+
+>Week4~  Offset/position issues once again and also camera janky in the songs once again eugh -Luigiboi
+
+>Week5~ pretty obvious almost everything is in a very high wip but as of bugs ig when mommy should be singing its still only the daddy sprites and the camera isnt moving the sprite in general has a few bugs i think its kinda janky cant see if bf has some offset/position bugs since i cant see him eugh
+second song has some possition/offset bugs wich makes sense its a wip.n the last song i couldnt see shit cuz it was stuck on the deadgf tree xd also makes sense tho still a wip atleast no chart bugs in this monster song. -Luigiboi There is one bug in feaster that being to scroll speed not changing but still a wip-Emerald
+
+>Week6~ NOTHING 0% -Luigiboi
+
+>Week7~ eugh tankman not doing his "you ugly" animation and like idk it has so much aura it makes a section literly unplayable even if the notes are pressed its not registered and it happens twice in the song will send a video later of what i mean
+and planeman does hold his animations a bit too long -Luigiboi
+
+>Otherfreeplaysongs~ NOTHING 0% -Luigiboi
+
+TOP 3 BUGS WE SHOULD DEFINITLY FIX FAST 1.Offset/positio Bugs 2.Camera Bugs 3.bf tweaking in tankmns song
