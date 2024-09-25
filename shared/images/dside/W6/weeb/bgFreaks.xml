@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfFreaks.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG Girls Group0000" x="0" y="0" width="886" height="155" pivotX="512.2" pivotY="0"/>
+	<SubTexture name="BG Girls Group0001" x="0" y="0" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0002" x="0" y="155" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0003" x="0" y="155" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0004" x="0" y="155" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0005" x="0" y="155" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0006" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0007" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0008" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0009" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0010" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0011" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0012" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0013" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0014" x="0" y="465" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0015" x="0" y="465" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0016" x="0" y="620" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0017" x="0" y="620" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0018" x="0" y="620" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0019" x="0" y="620" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0020" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0021" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0022" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0023" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0024" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0025" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0026" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0027" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0028" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG Girls Group0029" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0000" x="0" y="930" width="886" height="155" pivotX="512.2" pivotY="0"/>
+	<SubTexture name="BG fangirls dissuaded0001" x="0" y="930" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0002" x="0" y="1085" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0003" x="0" y="1085" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0004" x="0" y="1085" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0005" x="0" y="1085" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0006" x="0" y="1240" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0007" x="0" y="1240" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0008" x="0" y="1240" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0009" x="0" y="1240" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0010" x="0" y="1240" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0011" x="0" y="1240" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0012" x="0" y="1240" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0013" x="0" y="1240" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0014" x="0" y="1395" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0015" x="0" y="1395" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0016" x="0" y="1550" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0017" x="0" y="1550" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0018" x="0" y="1550" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0019" x="0" y="1550" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0020" x="0" y="1705" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0021" x="0" y="1705" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0022" x="0" y="1705" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0023" x="0" y="1705" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0024" x="0" y="1705" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0025" x="0" y="1705" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0026" x="0" y="1705" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0027" x="0" y="1705" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0028" x="0" y="1705" width="886" height="155"/>
+	<SubTexture name="BG fangirls dissuaded0029" x="0" y="1705" width="886" height="155"/>
+</TextureAtlas>

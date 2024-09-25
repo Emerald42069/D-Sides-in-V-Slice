@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="weebTrees.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="trees0000" x="0" y="0" width="567" height="270" pivotX="0" pivotY="0"/>
+	<SubTexture name="trees0001" x="0" y="0" width="567" height="270"/>
+	<SubTexture name="trees0002" x="0" y="270" width="567" height="270"/>
+	<SubTexture name="trees0003" x="0" y="540" width="567" height="270"/>
+	<SubTexture name="trees0004" x="0" y="540" width="567" height="270"/>
+	<SubTexture name="trees0005" x="0" y="810" width="567" height="270"/>
+	<SubTexture name="trees0006" x="0" y="810" width="567" height="270"/>
+	<SubTexture name="trees0007" x="0" y="810" width="567" height="270"/>
+	<SubTexture name="trees0008" x="0" y="810" width="567" height="270"/>
+</TextureAtlas>

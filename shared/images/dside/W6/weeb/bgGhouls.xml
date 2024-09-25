@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgGhouls.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG freaks glitch instance0000" x="0" y="0" width="886" height="155" pivotX="512.2" pivotY="0"/>
+	<SubTexture name="BG freaks glitch instance0001" x="0" y="0" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0002" x="0" y="155" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0003" x="0" y="155" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0004" x="0" y="155" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0005" x="0" y="155" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0006" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0007" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0008" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0009" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0010" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0011" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0012" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0013" x="0" y="310" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0014" x="0" y="465" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0015" x="0" y="465" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0016" x="0" y="620" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0017" x="0" y="620" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0018" x="0" y="620" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0019" x="0" y="620" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0020" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0021" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0022" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0023" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0024" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0025" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0026" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0027" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0028" x="0" y="775" width="886" height="155"/>
+	<SubTexture name="BG freaks glitch instance0029" x="0" y="775" width="886" height="155"/>
+</TextureAtlas>
