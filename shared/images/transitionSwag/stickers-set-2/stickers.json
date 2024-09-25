@@ -1,0 +1,24 @@
+{
+  "name": "stickers-set-1",
+  "artist": "PhantomArcade3K",
+  "stickers": {
+    "bf": ["bfSticker1", "bfSticker2", "bfSticker3"],
+    "dad": ["dadSticker1", "dadSticker2", "dadSticker3"],
+    "pico": ["picoSticker1", "picoSticker2", "picoSticker3"],
+    "mom": ["momSticker1", "momSticker2", "momSticker3"],
+    "monster": ["monsterSticker1", "monsterSticker2", "monsterSticker3"],
+    "gf": ["gfSticker1", "gfSticker2", "gfSticker3"],
+"bf-dside": ["bf-dsideSticker1", "bf-dsideSticker2", "bf-dsideSticker3"],
+    "dad-dside": ["dad-dsideSticker1", "dad-dsideSticker2", "dad-dsideSticker3"],
+    "pico-dside": ["pico-dsideSticker1", "pico-dsideSticker2", "pico-dsideSticker3"],
+    "mom-dside": ["mom-dsideSticker1", "mom-dsideSticker2", "mom-dsideSticker3"],
+    "monster-dside": ["monster-dsideSticker1", "monster-dsideSticker2", "monster-dsideSticker3"],
+    "gf-dside": ["gf-dsideSticker1", "gf-dsideSticker2", "gf-dsideSticker3"]
+  },
+  "stickerPacks": {
+    "bf-gf": ["bf", "gf"],
+    "parents": ["dad", "mom"],
+    "all": ["bf", "gf", "dad", "mom", "monster", "pico"]
+    "dside": ["bf-dside", "gf-dside", "dad-dside", "mom-dside", "monster-dside", "pico-dside", "placeholder"]
+  }
+}
