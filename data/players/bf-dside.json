@@ -6,7 +6,10 @@
     "bf-dsideDARK",
     "bf-dsidecar",
     "bf-dsidecarDARK",
-    "bf-easter"
+    "bf-easter",
+    "bf-pixel-dside",
+    "bf-holding-gf-dside",
+    "spooky-kids-dside-playable"
   ],
   "showUnownedChars": false,
   "unlocked": true,
