@@ -1,0 +1,92 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "Spooky Kids (D-Sides)",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"flipX": false,
+	"startingAnimation": "idle",
+	"singTime": 8,
+	"isPixel": false,
+	"assetPath": "characters/spooky_kids_assets",
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "spooky-dside",
+		"flipX": false
+	},
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "spooky dance idle",
+			"name": "idle",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-10,
+				75
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "note sing left",
+			"name": "singLEFT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-115,
+				10
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "spooky DOWN note",
+			"name": "singDOWN",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-30,
+				76
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "spooky UP NOTE",
+			"name": "singUP",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-90,
+				1
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "spooky sing right",
+			"name": "singRIGHT",
+			"looped": false,
+			"flipX": false
+		}
+	]
+}

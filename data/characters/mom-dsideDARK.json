@@ -1,0 +1,208 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "Mommy Mearest (D-Side Dark)",
+	"cameraOffsets": [
+		0,
+		-100
+	],
+	"flipX": false,
+	"singTime": 8,
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"healthIcon": {
+		"offsets": [
+			0,
+			0
+		],
+		"isPixel": false,
+		"scale": 1,
+		"flipX": false,
+		"id": "mom-dside"
+	},
+	"assetPath": "characters/momCarDARK",
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Mom Idle0",
+			"name": "idle",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"frameIndices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"prefix": "Mom Idle",
+			"looped": true,
+			"name": "idle-hold",
+			"flipX": false
+		},
+		{
+			"offsets": [
+				70,
+				-23
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Mom Left Pose0",
+			"name": "singLEFT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				70,
+				-23
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"frameIndices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"prefix": "Mom Left Pose0",
+			"looped": true,
+			"name": "singLEFT-hold",
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-20,
+				-230
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "MOM DOWN POSE0",
+			"name": "singDOWN",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-20,
+				-230
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"frameIndices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"prefix": "MOM DOWN POSE0",
+			"looped": true,
+			"name": "singDOWN-hold",
+			"flipX": false
+		},
+		{
+			"offsets": [
+				39,
+				36
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Mom Up Pose0",
+			"name": "singUP",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				39,
+				36
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"frameIndices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"prefix": "Mom Up Pose0",
+			"looped": true,
+			"name": "singUP-hold",
+			"flipX": false
+		},
+		{
+			"offsets": [
+				20,
+				-60
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Mom Pose Left0",
+			"name": "singRIGHT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				20,
+				-60
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"frameIndices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"prefix": "Mom Pose Left0",
+			"looped": true,
+			"name": "singRIGHT-hold",
+			"flipX": false
+		}
+	]
+}

@@ -1,0 +1,93 @@
+{
+  "version": "1.0.0",
+  "name": "BF & GF (D-Side)",
+  "assetPath": "characters/DBFGFWEEK7SHEET",
+  "flipX": true,
+  "renderType": "multisparrow",
+  "healthIcon": {
+    "id": "bf-dside"
+  },
+  "animations": [
+    {
+      "name": "firstDeath",
+      "prefix": "BFGFdies0",
+      "offsets": [37, 14]
+    },
+    {
+      "name": "deathConfirm",
+      "prefix": "BFGF Dead confirm0",
+      "offsets": [37, 28]
+    },
+    {
+      "name": "deathLoop",
+      "prefix": "BFGF Dead Loop0",
+      "looped": true,
+      "offsets": [37, -3]
+    },
+    {
+      "name": "idle",
+      "prefix": "BF idle dance",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "BFGF NOTE LEFT0",
+      "offsets": [12, 7]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "BFGF NOTE DOWN0",
+      "offsets": [-10, -10]
+    },
+    {
+      "name": "singUP",
+      "prefix": "BFGF NOTE UP0",
+      "offsets": [-29, 10]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "BFGF NOTE RIGHT0",
+      "offsets": [-41, 23]
+    },
+    {
+      "name": "singLEFTalt",
+      "prefix": "BFGF NOTE LEFT ALT0",
+      "offsets": [12, 7]
+    },
+    {
+      "name": "singDOWNalt",
+      "prefix": "BFGF NOTE DOWN ALT0",
+      "offsets": [-10, -10]
+    },
+    {
+      "name": "singUPalt",
+      "prefix": "BFGF NOTE UP ALT0",
+      "offsets": [-29, 10]
+    },
+    {
+      "name": "singRIGHTalt",
+      "prefix": "BFGF NOTE RIGHT ALT0",
+      "offsets": [-41, 23]
+    },
+    {
+      "name": "singLEFTmiss",
+      "prefix": "BFGF NOTE LEFT MISS0",
+      "offsets": [12, 7]
+    },
+    {
+      "name": "singDOWNmiss",
+      "prefix": "BFGF NOTE UP MISS0",
+      "offsets": [-10, -10]
+    },
+    {
+      "name": "singUPmiss",
+      "prefix": "BF NOTE UP MISS",
+      "offsets": [-29, 10]
+    },
+    {
+      "name": "singRIGHTmiss",
+      "prefix": "BFGF NOTE RIGHT MISS0",
+      "offsets": [-41, 23]
+    }
+  ]
+}

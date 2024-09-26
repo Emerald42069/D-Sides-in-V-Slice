@@ -1,0 +1,92 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"flipX": false,
+	"name": "Tricky Mask (D-Side)",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"singTime": 8,
+	"assetPath": "characters/TrickyMask-dside",
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "tricky-dside",
+		"flipX": false
+	},
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Idle",
+			"name": "idle",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				44,
+				-40
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Sing Right0",
+			"name": "singRIGHT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				103,
+				-252
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Sing Down0",
+			"name": "singDOWN",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				68,
+				53
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Sing Up0",
+			"name": "singUP",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				226,
+				-138
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Sing Left0",
+			"name": "singLEFT",
+			"looped": false,
+			"flipX": false
+		}
+	]
+}

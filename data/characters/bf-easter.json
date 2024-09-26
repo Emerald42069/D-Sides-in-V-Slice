@@ -1,0 +1,176 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"flipX": true,
+	"name": "Boyfriend (Easter)",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"singTime": 8,
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "bf-dside",
+		"flipX": false
+	},
+	"assetPath": "characters/bfEaster",
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "BF idle dance copy",
+			"flipX": false,
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				22,
+				4
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE LEFT suit0",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				-25
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE DOWN suit0",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWN"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				19,
+				37
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE UP  suit",
+			"flipX": false,
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-9,
+				-7
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE RIGHT suit0",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				32,
+				4
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE LEFT MISS copy0",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFTmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				2,
+				-26
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE DOWN MISS copy0",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWNmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				36,
+				47
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE UP MISS copy0",
+			"flipX": false,
+			"looped": false,
+			"name": "singUPmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-5,
+				-9
+			],
+			"frameRate": 24,
+			"prefix": "BF NOTE RIGHT MISS copy0",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHTmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				3,
+				-14
+			],
+			"frameRate": 24,
+			"prefix": "BF dies",
+			"flipX": false,
+			"looped": false,
+			"name": "firstDeath"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-2,
+				-15
+			],
+			"frameRate": 24,
+			"prefix": "BF Dead Loop",
+			"flipX": false,
+			"name": "deathLoop",
+			"looped": true
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-2,
+				49
+			],
+			"frameRate": 24,
+			"prefix": "BF Dead confirm",
+			"flipX": false,
+			"looped": false,
+			"name": "deathConfirm"
+		}
+	]
+}

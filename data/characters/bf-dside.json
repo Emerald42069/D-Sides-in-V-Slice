@@ -1,0 +1,296 @@
+{
+	"version": "1.0.0",
+	"renderType": "multisparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "Boyfriend (D-Side)",
+	"flipX": true,
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"singTime": 8,
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"assetPath": "characters/BF_D-Side",
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "bf-dside",
+		"flipX": false
+	},
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				-20
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF idle dance",
+			"name": "idle",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				12,
+				-11
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF NOTE LEFT0",
+			"name": "singLEFT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-12,
+				-40
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF NOTE DOWN0",
+			"name": "singDOWN",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-29,
+				27
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF NOTE UP0",
+			"name": "singUP",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-39,
+				-17
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF NOTE RIGHT0",
+			"name": "singRIGHT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				12,
+				-11
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF NOTE LEFT MISS",
+			"name": "singLEFTmiss",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-11,
+				-39
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF NOTE DOWN MISS",
+			"name": "singDOWNmiss",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-34,
+				27
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF NOTE UP MISS",
+			"name": "singUPmiss",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-34,
+				-19
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF NOTE RIGHT MISS",
+			"name": "singRIGHTmiss",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-13,
+				1
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "bf pre attack",
+			"name": "preAttack",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-13,
+				1
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "boyfriend attack",
+			"name": "attack",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "boyfriend dodge",
+			"name": "dodge",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-8,
+				-5
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF HEY!!",
+			"name": "hey",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-12,
+				-19
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF dies",
+			"name": "firstDeath",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-37,
+				11
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF dies",
+			"name": "fakeoutDeath",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-17,
+				-20
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF Dead Loop",
+			"looped": true,
+			"name": "deathLoop",
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-37,
+				79
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF Dead confirm",
+			"name": "deathConfirm",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-13,
+				-19
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF idle shaking",
+			"name": "scared",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				6,
+				-37
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF NOTE LEFT DODGE0",
+			"name": "dodgeLEFT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				55,
+				-15
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF NOTE DOWN DODGE0",
+			"name": "dodgeDOWN",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				93,
+				32
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF NOTE UP DODGE0",
+			"name": "dodgeUP",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				142,
+				-22
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "BF NOTE RIGHT DODGE0",
+			"name": "dodgeRIGHT",
+			"looped": false,
+			"flipX": false
+		}
+	]
+}

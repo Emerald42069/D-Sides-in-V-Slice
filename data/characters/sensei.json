@@ -1,0 +1,140 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 6,
+	"name": "Sensei",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"flipX": false,
+	"isPixel": true,
+	"singTime": 8,
+	"startingAnimation": "idle",
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"flipX": false,
+		"id": "sensei"
+	},
+	"assetPath": "characters/sensei",
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Senpai Idle0",
+			"name": "idle",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				120,
+				-60
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "SENPAI LEFT NOTE0",
+			"name": "singLEFT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				110,
+				-280
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "SENPAI DOWN NOTE0",
+			"name": "singDOWN",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				5,
+				7
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "SENPAI UP NOTE0",
+			"name": "singUP",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				230,
+				-40
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "SENPAI RIGHT NOTE0",
+			"name": "singRIGHT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				260,
+				180
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "SENPAI LEFT NOTE ALT0",
+			"name": "singLEFTalt",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "SENPAI DOWN NOTE ALT0",
+			"name": "singDOWNalt",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				245,
+				127
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "SENPAI UP NOTE ALT0",
+			"name": "singUPalt",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				315,
+				185
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "SENPAI RIGHT NOTE ALT0",
+			"name": "singRIGHTalt",
+			"looped": false,
+			"flipX": false
+		}
+	]
+}

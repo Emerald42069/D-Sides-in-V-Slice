@@ -1,0 +1,152 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "Monster (D-Side)",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"flipX": false,
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"singTime": 8,
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "monster-easter",
+		"flipX": false
+	},
+	"assetPath": "characters/monsterEaster",
+	"animations": [
+		{
+			"offsets": [
+				0,
+				6
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "monster idle0",
+			"name": "idle",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-15,
+				-155
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Monster Right note0",
+			"name": "singLEFT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				10,
+				-385
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "monster down0",
+			"name": "singDOWN",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-45,
+				-1
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "monster up note0",
+			"name": "singUP",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				14,
+				-125
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Monster left note0",
+			"name": "singRIGHT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				644,
+				5
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "monster entering0",
+			"name": "intro",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				0,
+				-50
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "monsterlrightlemon0",
+			"name": "singRIGHTalt",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				9,
+				-165
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "monsterdownlemon0",
+			"name": "singDOWNalt",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-5,
+				44
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "monsteruplemon0",
+			"name": "singUPalt",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-7,
+				-95
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "monsterrleftlemon0",
+			"name": "singLEFTalt",
+			"looped": false,
+			"flipX": false
+		}
+	]
+}

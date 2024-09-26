@@ -1,0 +1,140 @@
+{
+	"version": "1.0.0",
+	"renderType": "multisparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 6,
+	"name": "Spirit (D-Side)",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"flipX": false,
+	"isPixel": true,
+	"singTime": 8,
+	"startingAnimation": "idle",
+	"healthIcon": {
+		"offsets": [
+			0,
+			0
+		],
+		"isPixel": false,
+		"scale": 1,
+		"flipX": false,
+		"id": "spirit-dside"
+	},
+	"assetPath": "characters/SpiritAssets",
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				-190,
+				-210
+			],
+			"frameRate": 24,
+			"prefix": "SpiritIdle0",
+			"flipX": false,
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-200,
+				-280
+			],
+			"frameRate": 24,
+			"prefix": "SpiritLeft0",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-200,
+				-270
+			],
+			"frameRate": 24,
+			"prefix": "SpiritDown0",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWN"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-220,
+				-240
+			],
+			"frameRate": 24,
+			"prefix": "SpiritUp0",
+			"flipX": false,
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-165,
+				-280
+			],
+			"frameRate": 24,
+			"prefix": "SpiritRight0",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-10,
+				-280
+			],
+			"frameRate": 24,
+			"prefix": "SpiritLeftALT0",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFTALT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				170,
+				-200
+			],
+			"frameRate": 24,
+			"prefix": "SpiritDownALT0",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWNALT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				110,
+				-240
+			],
+			"frameRate": 24,
+			"prefix": "SpiritUpALT0",
+			"flipX": false,
+			"looped": false,
+			"name": "singUPALT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				115,
+				-280
+			],
+			"frameRate": 24,
+			"prefix": "SpiritRightALT0",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHTALT"
+		}
+	]
+}

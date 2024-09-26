@@ -1,0 +1,232 @@
+{
+	"version": "1.0.1",
+	"renderType": "multisparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 6,
+	"flipX": true,
+	"name": "Boyfriend (D-Side Pixel)",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"isPixel": true,
+	"singTime": 8,
+	"death": {
+		"cameraOffsets": [
+			200,
+			200
+		]
+	},
+	"startingAnimation": "idle",
+	"healthIcon": {
+		"offsets": [
+			0,
+			0
+		],
+		"isPixel": false,
+		"id": "bf-pixel-dside",
+		"flipX": false
+	},
+	"assetPath": "characters/bfPixel-D-Side",
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "BF IDLE0",
+			"flipX": false,
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				20,
+				95
+			],
+			"frameRate": 24,
+			"prefix": "BF UP NOTE0",
+			"flipX": false,
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "BF LEFT NOTE0",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-15,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "BF RIGHT NOTE0",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-25,
+				-10
+			],
+			"frameRate": 24,
+			"prefix": "BF DOWN NOTE0",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWN"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				40,
+				110
+			],
+			"frameRate": 24,
+			"prefix": "BF UP MISS0",
+			"flipX": false,
+			"looped": false,
+			"name": "singUPmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				65
+			],
+			"frameRate": 24,
+			"prefix": "BF LEFT MISS0",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFTmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"frameRate": 24,
+			"prefix": "BF RIGHT MISS0",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHTmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				50,
+				50
+			],
+			"frameRate": 24,
+			"prefix": "BF DOWN MISS0",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWNmiss"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				20,
+				130
+			],
+			"frameRate": 24,
+			"assetPath": "characters/bfPixelsDEAD-D-Side",
+			"prefix": "BF Dies pixel0",
+			"flipX": false,
+			"looped": false,
+			"name": "firstDeath"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				20,
+				137.5
+			],
+			"frameRate": 24,
+			"assetPath": "characters/bfPixelsDEAD-D-Side",
+			"prefix": "Retry Loop0",
+			"flipX": false,
+			"name": "deathLoop",
+			"looped": true
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				20,
+				137.5
+			],
+			"frameRate": 24,
+			"assetPath": "characters/bfPixelsDEAD-D-Side",
+			"prefix": "RETRY CONFIRM0",
+			"flipX": false,
+			"looped": false,
+			"name": "deathConfirm"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-20,
+				295
+			],
+			"frameRate": 24,
+			"prefix": "BF UP NOTE ALT0",
+			"flipX": false,
+			"looped": false,
+			"name": "singUPalt"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				25,
+				255
+			],
+			"frameRate": 24,
+			"prefix": "BF LEFT NOTE ALT0",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFTalt"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-45,
+				280
+			],
+			"frameRate": 24,
+			"prefix": "BF RIGHT NOTE ALT0",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHTalt"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-40,
+				290
+			],
+			"frameRate": 24,
+			"prefix": "BF DOWN NOTE ALT0",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWNalt"
+		}
+	]
+}

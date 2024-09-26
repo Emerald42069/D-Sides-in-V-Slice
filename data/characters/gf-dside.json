@@ -1,0 +1,273 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "Girlfriend (D-Side)",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"flipX": false,
+	"singTime": 8,
+	"startingAnimation": "danceRight",
+	"isPixel": false,
+	"assetPath": "characters/gf_D-Side",
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "gf-dside",
+		"flipX": false
+	},
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"frameIndices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"prefix": "GF Dancing Beat",
+			"name": "danceLeft",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"frameIndices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"prefix": "GF Dancing Beat",
+			"name": "danceRight",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-3,
+				-41
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"prefix": "gf sad",
+			"name": "sad",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				0,
+				-26
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "GF left note",
+			"name": "singLEFT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				0,
+				-42
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "GF Down Note",
+			"name": "singDOWN",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				0,
+				-16
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "GF Up Note",
+			"name": "singUP",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				0,
+				-16
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "GF Right Note",
+			"name": "singRIGHT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				0,
+				-16
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "GF Cheer",
+			"name": "cheer",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				0,
+				-15
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "GF Cheer",
+			"name": "combo50",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-3,
+				-41
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"prefix": "gf sad",
+			"name": "drop70",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				0,
+				-13
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"prefix": "GF Dancing Beat Hair blowing",
+			"name": "hairBlow",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"frameIndices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"prefix": "GF Dancing Beat Hair Landing",
+			"name": "hairFall",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-3,
+				-21
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "GF FEAR",
+			"name": "scared",
+			"looped": false,
+			"flipX": false
+		}
+	]
+}

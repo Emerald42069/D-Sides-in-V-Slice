@@ -1,0 +1,116 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"flipX": true,
+	"name": "Pico (D-Side)",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"singTime": 8,
+	"assetPath": "characters/Pico_D-Side",
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "pico-dside",
+		"flipX": false
+	},
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Pico Idle Dance",
+			"name": "idle",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-26,
+				-10
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Pico NOTE LEFT0",
+			"name": "singRIGHT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				13,
+				-92
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Pico Down Note0",
+			"name": "singDOWN",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-32,
+				43
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "pico Up note0",
+			"name": "singUP",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				56,
+				-28
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Pico Note Right0",
+			"name": "singLEFT",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-55,
+				5
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Pico Gun Charge",
+			"name": "gunCock",
+			"looped": false,
+			"flipX": false
+		},
+		{
+			"offsets": [
+				22,
+				-8
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "Pico Shoot",
+			"name": "shoot",
+			"looped": false,
+			"flipX": false
+		}
+	]
+}

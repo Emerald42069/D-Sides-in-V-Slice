@@ -1,0 +1,116 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		-50
+	],
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "Planeman",
+	"flipX": false,
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"singTime": 8,
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"assetPath": "characters/planeman_assets",
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "planeman",
+		"flipX": false
+	},
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "planeman idle0",
+			"looped": false,
+			"name": "idle",
+			"flipX": false
+		},
+		{
+			"offsets": [
+				60,
+				-13
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "planeman left0",
+			"looped": false,
+			"name": "singLEFT",
+			"flipX": false
+		},
+		{
+			"offsets": [
+				38,
+				-105
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "planeman down0",
+			"looped": false,
+			"name": "singDOWN",
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-32,
+				164
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "planeman up0",
+			"looped": false,
+			"name": "singUP",
+			"flipX": false
+		},
+		{
+			"offsets": [
+				18,
+				-28
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "planeman right0",
+			"looped": false,
+			"name": "singRIGHT",
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-2,
+				15
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "planeman ugly0",
+			"looped": false,
+			"name": "hehPrettyGood",
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-6,
+				1
+			],
+			"flipY": false,
+			"frameRate": 24,
+			"prefix": "planeman ugh0",
+			"looped": false,
+			"name": "ugh",
+			"flipX": false
+		}
+	]
+}
