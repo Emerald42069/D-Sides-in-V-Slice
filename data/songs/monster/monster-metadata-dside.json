@@ -1,5 +1,5 @@
 {
-  "version": "2.2.3",
+  "version": "2.2.4",
   "songName": "Monster D-Side",
   "artist": "Philiplol",
   "divisions": 96,
@@ -21,12 +21,9 @@
     },
     "stage": "Spooky-evil",
     "noteStyle": "funkin",
-    "ratings": {
-      "dsidediff": 6
-    },
-    "album": "vol1",
+    "ratings": { "easy": 0, "normal": 0, "hard": 0 },
     "previewStart": 0,
-    "previewEnd": 0
+    "previewEnd": 15000
   },
   "generatedBy": "Friday Night Funkin' - v0.4.1",
   "timeFormat": "ms",
