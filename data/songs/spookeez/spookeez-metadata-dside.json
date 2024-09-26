@@ -12,9 +12,7 @@
   "playData": {
     "album": "D-Sides",
     "songVariations": [    ],
-    "difficulties": [
-      "dsidediff"
-    ],
+    "difficulties": ["easy", "normal", "hard"],
     "characters": {
       "player": "bf-dside",
       "girlfriend": "gf-dside",

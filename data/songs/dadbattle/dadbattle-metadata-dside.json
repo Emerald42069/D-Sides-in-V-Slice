@@ -12,9 +12,7 @@
   "playData": {
     "album": "D-Sides",
     "songVariations": [    ],
-    "difficulties": [
-      "dsidediff"
-    ],
+    "difficulties": ["easy", "normal", "hard"],
     "characters": {
       "player": "bf-dsideDARK",
       "girlfriend": "gf-dsideDARK",
@@ -24,11 +22,7 @@
     },
     "stage": "Stage-dsideDARK",
     "noteStyle": "funkin",
-    "ratings": {
-      "easy": 0,
-      "dsidediff": 3,
-      "normal": 0
-    },
+    "ratings": { "easy": 0, "normal": 0, "hard": 0 },
     "previewStart": 0,
     "previewEnd": 0
   },
