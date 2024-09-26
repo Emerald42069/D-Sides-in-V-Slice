@@ -16,9 +16,9 @@
       "dsidediff"
     ],
     "characters": {
-      "player": "bf-holding-gf",
+      "player": "bf-holding-gf-dside",
       "girlfriend": "",
-      "opponent": "planeman",
+      "opponent": "planeman-wind",
       "instrumental": "dside",
       "altInstrumentals": [      ]
     },
