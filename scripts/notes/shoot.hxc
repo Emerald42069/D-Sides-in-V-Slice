@@ -1,1 +1,41 @@
-Penis
+import funkin.modding.module.Module;
+import funkin.play.PlayState;
+import funkin.graphics.FunkinSprite;
+import funkin.Paths;
+
+class PicoShootNotesDsides extends Module
+{
+var Direction:String;
+    function new(){
+        super("PicoShootD");
+    }
+
+function onNoteMiss(event) {
+    if (event.note.noteData.kind == "shoot") 
+        PlayState.instance.health -= 0.4; //Player takes damage when miss a note
+}
+
+function onNoteIncoming(event) {
+    if (event.note.noteData.kind == "shoot") { 
+event.note.frames = Paths.getSparrowAtlas('dside/Blammed'); 
+
+event.note.animation.addByPrefix('Down', 'green');
+event.note.animation.addByPrefix('Left', 'purple');
+event.note.animation.addByPrefix('Right', 'red');
+event.note.animation.addByPrefix('Up', 'blue');
+
+if(event.note.noteData.data % 4 == 0) Direction = "Left";
+if(event.note.noteData.data % 4 == 1) Direction = "Up";
+if(event.note.noteData.data % 4 == 2) Direction = "Down";
+if(event.note.noteData.data % 4 == 3) Direction = "Right";
+
+	event.note.animation.play(Direction);
+
+//change the note direction
+		}
+
+	}
+}
+
+                //Made by zz.yura
+                    //Please give credits if you use this script as a base
