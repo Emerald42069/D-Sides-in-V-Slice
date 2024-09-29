@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
-  "bgAsset": "freeplay/freeplayBGdadBf-dside",
-  "selectorAsset": "freeplay/freeplaySelector/freeplaySelector_bf-dside",
-  "numbersAsset": "digital_numbers_bf_dside",
-  "capsuleAsset": "freeplay/freeplayCapsule/capsule/freeplayCapsule_bf_dside",
-  "capsuleTextColors": ["#CC6600", "#CC9900"],
+  "bgAsset": "freeplay/freeplayBGdad_D-side",
+  "selectorAsset": "freeplay/freeplaySelector/freeplaySelector_D-side",
+  "numbersAsset": "digital_numbers_D-side",
+  "capsuleAsset": "freeplay/freeplayCapsule/capsule/freeplayCapsule_D-side",
+  "capsuleTextColors": ["#9C00B5", "#1F00B0"],
   "startDelay": 1.45
 }
