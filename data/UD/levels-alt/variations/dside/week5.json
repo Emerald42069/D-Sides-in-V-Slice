@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "name": "ROTTEN EGGS",
+  "titleAsset": "storymenu/titles/week5",
+  "props": [
+    {
+      "assetPath": "storymenu/props/dside/parents",
+      "scale": 0.3,
+      "offsets": [-725, -440],
+      "animations": [
+        {
+          "name": "idle",
+          "prefix": "M Parents Idle",
+          "frameRate": 24
+        }
+      ]
+    },
+    {
+      "assetPath": "storymenu/props/dside/bf",
+      "scale": 0.6,
+      "offsets": [-50, 95],
+      "animations": [
+        {
+          "name": "idle",
+          "prefix": "BF idle dance white0",
+          "frameRate": 24
+        },
+        {
+          "name": "confirm",
+          "prefix": "BF HEY!!",
+          "frameRate": 24
+        }
+      ]
+    },
+    {
+      "assetPath": "storymenu/props/dside/gf",
+      "scale": 0.6,
+      "offsets": [20, -30],
+      "animations": [
+        {
+          "name": "danceLeft",
+          "prefix": "GF Dancing Beat WHITE",
+          "frameIndices": [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+        },
+        {
+          "name": "danceRight",
+          "prefix": "GF Dancing Beat WHITE",
+          "frameIndices": [
+            15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "#9271fd",
+  "songs": ["cocoa", "eggnog", "winter-horrorland"]
+}
