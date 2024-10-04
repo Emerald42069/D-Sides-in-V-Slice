@@ -86,17 +86,40 @@
     ]
   },
   "charSelect": {
-    "position": 1
+    "position": 1,
+    "gf": {
+      "assetPath": "charSelect/gf-dsideChill",
+      "animInfoPath": "charSelect/gfAnimInfo",
+      "visualizer": false
+    }
   },
   "results": {
     "music": {
-      "PERFECT_GOLD": "resultsPERFECT-pico",
-      "PERFECT": "resultsPERFECT-pico",
-      "EXCELLENT": "resultsEXCELLENT-pico",
-      "GREAT": "resultsGREAT-pico",
-      "GOOD": "resultsGOOD-pico",
-      "SHIT": "resultsSHIT-pico"
+      "PERFECT_GOLD": "resultsPERFECT",
+      "PERFECT": "resultsPERFECT",
+      "EXCELLENT": "resultsEXCELLENT",
+      "GREAT": "resultsNORMAL",
+      "GOOD": "resultsNORMAL",
+      "SHIT": "resultsSHIT"
     },
+    "perfectGold": [
+      {
+        "renderType": "animateatlas",
+        "assetPath": "shared:resultScreen/results-dbf/resultsGOOD/bf",
+        "zIndex": 500,
+        "scale": 1.0,
+        "offsets": [700, 370],
+        "loopFrame": 41
+      },
+      {
+        "renderType": "sparrow",
+        "assetPath": "shared:resultScreen/results-dbf/resultsGOOD/resultGirlfriendGOOD",
+        "zIndex": 500,
+        "delay": 0.91,
+        "offsets": [629, 323],
+        "loopFrame": 9
+      }
+    ],
     "perfect": [
       {
         "renderType": "animateatlas",
