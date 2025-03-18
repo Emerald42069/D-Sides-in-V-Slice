@@ -15,27 +15,38 @@ function onNoteMiss(event) {
         PlayState.instance.health -= 0.4; //Player takes damage when miss a note
 }
 
-function onNoteIncoming(event) {
-    if (event.note.noteData.kind == "shoot") { 
-event.note.frames = Paths.getSparrowAtlas('dside/Blammed'); 
 
-event.note.animation.addByPrefix('Down', 'green');
-event.note.animation.addByPrefix('Left', 'purple');
-event.note.animation.addByPrefix('Right', 'red');
-event.note.animation.addByPrefix('Up', 'blue');
+    function onNoteIncoming(event)
+        {
+            if(event.note.noteData.kind == 'shoot')
+                {
+                    if (event.note.noteData.kind == "shoot") {
+                        event.note.frames = Paths.getSparrowAtlas('dside/Blammed');
+                        event.note.animation.addByPrefix('greenScroll', 'green0');
+                        event.note.animation.addByPrefix('redScroll', 'red0');
+                        event.note.animation.addByPrefix('blueScroll', 'blue0');
+                        event.note.animation.addByPrefix('purpleScroll', 'purple0');
+            
+                        event.note.updateHitbox();
+            
+                        var color:String;
+            
+                        if(event.note.noteData.data % 4 == 0)
+                            color = "purpleScroll";
+                        if(event.note.noteData.data % 4 == 1)
+                            color = "blueScroll";                            
+                        if(event.note.noteData.data % 4 == 2)
+                            color = "greenScroll";                           
+                        if(event.note.noteData.data % 4 == 3)
+                            color = "redScroll";
+            
+                        event.note.animation.play(color);
+                }
+        }
 
-if(event.note.noteData.data % 4 == 0) Direction = "Left";
-if(event.note.noteData.data % 4 == 1) Direction = "Up";
-if(event.note.noteData.data % 4 == 2) Direction = "Down";
-if(event.note.noteData.data % 4 == 3) Direction = "Right";
-
-	event.note.animation.play(Direction);
-
-//change the note direction
-		}
-
-	}
+    }
 }
+
 
                 //Made by zz.yura
                     //Please give credits if you use this script as a base
