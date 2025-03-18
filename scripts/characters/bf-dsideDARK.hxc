@@ -18,4 +18,22 @@ class BFDsideDarkCharacter extends MultiSparrowCharacter {
 
 		PauseSubState.musicSuffix = '-dside';
 	}
+	function onNoteHit(event:HitNoteScriptEvent)
+		{
+			if (event.note.noteData.kind == "shoot") {
+				// Override the hit note animation.
+				switch(event.note.direction){
+					case 0:
+						super.playAnimation('dodgeLEFT', true, false);
+					case 1:
+						super.playAnimation('dodgeUP', true, false);
+					case 2:
+						super.playAnimation('dodgeDOWN', true, false);
+					case 3:
+						super.playAnimation('dodgeLEFT', true, false);
+				}
+			}
+	
+			super.onNoteHit(event);
+		}
 }
