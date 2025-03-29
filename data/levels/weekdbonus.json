@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "name": "PENIS",
+    "titleAsset": "storymenu/titles/week1",
+    "visible": false,
+    "props": [],
+    "background": "#FFFFFF",
+    "songs": ["test", "smash", "ridge"]
+}

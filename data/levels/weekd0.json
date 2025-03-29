@@ -1,0 +1,8 @@
+{
+    "version": "1.0.0",
+    "name": "ERROR>VSDEVCMD.BAT",
+    "titleAsset": "storymenu/titles/dside/week0",
+    "props": [],
+    "background": "#FFFFFF",
+    "songs": ["test", "smash", "ridge"]
+}
