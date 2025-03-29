@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="planemanpixel.png" width="83" height="95">
+	<SubTexture name="confirm-hold0000" x="1" y="64" width="44" height="30" frameX="-0" frameY="-12" frameWidth="46" frameHeight="48"/>
+	<SubTexture name="confirm00000" x="37" y="1" width="45" height="33" frameX="-0" frameY="-9" frameWidth="46" frameHeight="48"/>
+	<SubTexture name="confirm00001" x="49" y="36" width="33" height="37" frameX="-8" frameY="-6" frameWidth="46" frameHeight="48"/>
+	<SubTexture name="confirm00002" x="1" y="39" width="46" height="23" frameX="-0" frameY="-13" frameWidth="46" frameHeight="48"/>
+	<SubTexture name="confirm00003" x="1" y="1" width="34" height="36" frameX="-4" frameY="-8" frameWidth="46" frameHeight="48"/>
+	<SubTexture name="confirm00004" x="1" y="64" width="44" height="30" frameX="-0" frameY="-12" frameWidth="46" frameHeight="48"/>
+	<SubTexture name="idle0000" x="37" y="1" width="45" height="33" frameX="-0" frameY="-9" frameWidth="46" frameHeight="48"/>
+</TextureAtlas>
