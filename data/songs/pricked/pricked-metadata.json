@@ -1,0 +1,61 @@
+{
+  "version": "2.2.4",
+  "songName": "Pricked",
+  "artist": "Sandii",
+  "divisions": 96,
+  "looped": false,
+  "offsets": {
+    "instrumental": 0,
+    "altInstrumentals": {    },
+    "vocals": {    },
+    "altVocals": {    }
+  },
+  "playData": {
+    "songVariations": [    ],
+    "difficulties": [
+      "hard",
+      "normal",
+      "easy"
+    ],
+    "characters": {
+      "player": "bf-pixel-dside",
+      "girlfriend": "gf-pixel-dside",
+      "opponent": "spirit-dside",
+      "instrumental": "",
+      "altInstrumentals": [      ],
+      "opponentVocals": [
+        "spirit-dside"
+      ],
+      "playerVocals": [
+        "bf-pixel-dside"
+      ]
+    },
+    "stage": "schoolEvil",
+    "noteStyle": "dside-pixel",
+    "ratings": {
+      "easy": 0,
+      "normal": 0,
+      "hard": 12
+    },
+    "album": "D-Sides",
+    "previewStart": 0,
+    "previewEnd": 0
+  },
+  "generatedBy": "Friday Night Funkin' - v0.5.3",
+  "timeFormat": "ms",
+  "timeChanges": [
+    {
+      "t": 0,
+      "b": 0,
+      "bpm": 150,
+      "n": 4,
+      "d": 4,
+      "bt": [
+        4,
+        4,
+        4,
+        4
+      ]
+    }
+  ]
+}
