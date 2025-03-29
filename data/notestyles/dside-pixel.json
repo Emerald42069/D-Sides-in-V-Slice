@@ -1,0 +1,162 @@
+{
+  "version": "1.1.0",
+  "name": "Pixel (D-Side)",
+  "author": "IDK",
+  "fallback": "pixel",
+  "assets": {
+    "note": {
+      "assetPath": "shared:dside/W6/weeb/pixelUI/arrows-pixels",
+      "scale": 4.2,
+      "isPixel": true,
+      "data": {
+        "left": { "prefix": "noteLeft" },
+        "down": { "prefix": "noteDown" },
+        "up": { "prefix": "noteUp" },
+        "right": { "prefix": "noteRight" }
+      }
+    },
+    "noteStrumline": {
+      "assetPath": "shared:dside/W6/weeb/pixelUI/arrows-pixels",
+      "scale": 4.2,
+      "offsets": [28, 32],
+      "isPixel": true,
+      "data": {
+        "leftStatic": { "prefix": "staticLeft0" },
+        "leftPress": { "prefix": "pressedLeft0" },
+        "leftConfirm": { "prefix": "confirmLeft0" },
+        "leftConfirmHold": { "prefix": "confirmLeft0" },
+        "downStatic": { "prefix": "staticDown0" },
+        "downPress": { "prefix": "pressedDown0" },
+        "downConfirm": { "prefix": "confirmDown0" },
+        "downConfirmHold": { "prefix": "confirmDown0" },
+        "upStatic": { "prefix": "staticUp0" },
+        "upPress": { "prefix": "pressedUp0" },
+        "upConfirm": { "prefix": "confirmUp0" },
+        "upConfirmHold": { "prefix": "confirmUp0" },
+        "rightStatic": { "prefix": "staticRight0" },
+        "rightPress": { "prefix": "pressedRight0" },
+        "rightConfirm": { "prefix": "confirmRight0" },
+        "rightConfirmHold": { "prefix": "confirmRight0" }
+      }
+    },
+    "holdNote": {
+      "assetPath": "week6:weeb/pixelUI/arrowEndsNew",
+      "scale": 6.0,
+      "offsets": [2, 1],
+      "isPixel": true,
+      "data": {}
+    },
+    "noteSplash": {
+      "assetPath": "",
+      "data": {
+        "enabled": false
+      }
+    },
+    "holdNoteCover": {
+      "assetPath": "",
+      "data": {
+        "enabled": false
+      }
+    },
+    "countdownThree": {
+      "data": {
+        "audioPath": "shared:intro3-pixel"
+      },
+      "assetPath": null
+    },
+    "countdownTwo": {
+      "data": {
+        "audioPath": "shared:intro2-pixel"
+      },
+      "assetPath": "shared:dside/W6/weeb/pixelUI/ready",
+      "scale": 6.0,
+      "isPixel": true
+    },
+    "countdownOne": {
+      "data": {
+        "audioPath": "intro1-pixel"
+      },
+      "assetPath": "shared:dside/W6/weeb/pixelUI/set",
+      "scale": 6.0,
+      "isPixel": true
+    },
+    "countdownGo": {
+      "data": {
+        "audioPath": "introGo-pixel"
+      },
+      "assetPath": "shared:dside/W6/weeb/pixelUI/fight",
+      "scale": 6.0,
+      "isPixel": true
+    },
+    "judgementSick": {
+      "assetPath": "shared:dside/W6/weeb/pixelUI/cool",
+      "scale": 4.2,
+      "isPixel": true
+    },
+    "judgementGood": {
+      "assetPath": "shared:dside/W6/weeb/pixelUI/nice",
+      "scale": 4.2,
+      "isPixel": true
+    },
+    "judgementBad": {
+      "assetPath": "shared:dside/W6/weeb/pixelUI/eh",
+      "scale": 4.2,
+      "isPixel": true
+    },
+    "judgementShit": {
+      "assetPath": "dside/W6/weeb/pixelUI/damn",
+      "scale": 4.2,
+      "isPixel": true
+    },
+    "comboNumber0": {
+      "assetPath": "shared:dside/W6/weeb/pixelUI/num0",
+      "isPixel": true,
+      "scale": 4.2
+    },
+    "comboNumber1": {
+      "assetPath": "shared:dside/W6/weeb/pixelUI/num1",
+      "isPixel": true,
+      "scale": 4.2
+    },
+    "comboNumber2": {
+      "assetPath": "shared:dside/W6/weeb/pixelUI/num2",
+      "isPixel": true,
+      "scale": 4.2
+    },
+    "comboNumber3": {
+      "assetPath": "shared:dside/W6/weeb/pixelUI/num3",
+      "isPixel": true,
+      "scale": 4.2
+    },
+    "comboNumber4": {
+      "assetPath": "shared:dside/W6/weeb/pixelUI/num4",
+      "isPixel": true,
+      "scale": 4.2
+    },
+    "comboNumber5": {
+      "assetPath": "shared:dside/W6/weeb/pixelUI/num5",
+      "isPixel": true,
+      "scale": 4.2
+    },
+    "comboNumber6": {
+      "assetPath": "shared:dside/W6/weeb/pixelUI/num6",
+      "isPixel": true,
+      "scale": 4.2
+    },
+    "comboNumber7": {
+      "assetPath": "shared:dside/W6/weeb/pixelUI/num7",
+      "isPixel": true,
+      "scale": 4.2
+    },
+    "comboNumber8": {
+      "assetPath": "shared:dside/W6/weeb/pixelUI/num8",
+      "isPixel": true,
+      "scale": 4.2
+    },
+    "comboNumber9": {
+      "assetPath": "shared:dside/W6/weeb/pixelUI/num9",
+      "isPixel": true,
+      "scale": 4.2
+    }
+  }
+}
