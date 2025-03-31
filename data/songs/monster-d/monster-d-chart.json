@@ -255,11 +255,11 @@
       "t": 95598.9473684211,
       "e": "ScrollSpeed",
       "v": {
-	"duration": 4,
+	"duration": 16,
 	"strumline": "both",
-	"scroll": 1.5,
-	"ease": "INSTANT",
-	"absolute": false
+	"scroll": 2.4,
+	"ease": "expoOut",
+	"absolute": true
 }
     },
     {
